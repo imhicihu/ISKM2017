@@ -1,7 +1,11 @@
 ### Lista de verificación
 * verificar el lugar fìsico donde se realizará el evento
-* condición sine qua non: debe llevarse a cabo un ensayo general días previos (mínimo una semana antes) al evento a efectos de cerciorarse, minimizar diferencias (técnicas) y generar posibles soluciones alternativas (posición de las cámaras, volumen de audio de los micrófonos y el sonido ambiente de la sala, quien manejará la consola de sonido, quien será responsable del traspaso digital de la cámara hasta el streaming via el sitio oficial del congreso...) 
-* dejar asentado quién será el responsable técnico de la empresa proveedora del streaming
+* confirmar cuantas personas asistirán
+* confirmar los horarios de transmisión del streaming (huso horario local de Argentina)
+* afirmar que preferimos una línea de fibra óptica en desmedro de una ADSL para hacer el streaming
+* condición sine qua non: debe llevarse a cabo una prueba de retransmisión días previos al evento (mínimo: una semana antes) a efectos de cerciorarse, minimizar diferencias (técnicas) y generar posibles soluciones alternativas (posición de las cámaras, volumen de audio de los micrófonos y el sonido ambiente de la sala, quien gestionará la consola de sonido, quien será responsable del traspaso analógico-digital de la cámara hasta el streaming via el sitio oficial del congreso...) 
+* confirmar quién será el responsable técnico de la empresa proveedora del streaming
+* confirmar quién o quienes asistirán al responsable técnico de la empresa proveedora del streaming
 * verificar cuántas horas (en tu totalidad) serán necesarias para cubrir en su totalidad todas las exposiciones del evento. 
 * verificar quién generará las claves de acceso para poder visualizar el streaming (se hará por día, por todo el evento, por un expositor determinado, por una mesa en particular?)
 * verificar quien o quienes serán los responsables del monitoreo del streaming
@@ -9,6 +13,10 @@
 * verificar dìas y horarios (y comunicarlos eficientemente) del evento. Para aquellos en otras latitudes, hacer hincapiè que serán en horario oficial de Argentina (es decir UTC-03:00). Por caso, suministrar esta información: https://en.wikipedia.org/wiki/Time_in_Argentina
 * verificar si existe la posibilidad de generar energía eléctrica alternativa en el caso que haya un corte energético (power outage)
 * verificar el estado de los enchufes
+* verificar el estado de las baterías de las cámaras, computadoras portátiles, tabletas
+* contemplar la posibilidad 
+* generar un listado de todos los dispositivos técnicos que se ingresarán al edificio donde se realizará el evento. Cuanto más puntilloso sea, mejor. Y en sendos partes: nosotros y ellos, la productora del streaming.
+* tomar fotografías a efectos de demostrar de cómo se tomó la sala antes del evento y cómo se entrega posterior al mismo.
 * software necesario: preferentemente open-source o en su defecto, verificar licencias del proveedor del streaming
 * algoritmo de compresión & codec de audio/video a utilizar
 * verificar que los gráficos, mapas, fotografías, música incidental (aquella que se utilizaría entre expositor y expositor) estén libres de derecho de autor o bajo licencia Creative Commons.
@@ -21,5 +29,6 @@
 * verificar que el servicio de streaming nos provea el iframe para insertarlo en el sitio oficial
 * insertar en el streaming un zócalo identificando el nombre del evento: por ejemplo: © ISKM 2017 
 * insertar separadores entre los expositores
+* informar  a los asistentes la señal oficial de wifi y su correspondiente contraseña
 * 
 
