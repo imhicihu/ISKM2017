@@ -6,10 +6,11 @@
 * condición sine qua non: debe llevarse a cabo una prueba de retransmisión días previos al evento (mínimo: una semana antes) a efectos de cerciorarse, minimizar diferencias (técnicas) y generar posibles soluciones alternativas (posición de las cámaras, volumen de audio de los micrófonos y el sonido ambiente de la sala, quien gestionará la consola de sonido, quien será responsable del traspaso analógico-digital de la cámara hasta el streaming via el sitio oficial del congreso...) 
 * confirmar quién será el responsable técnico de la empresa proveedora del streaming
 * confirmar quién o quienes asistirán al responsable técnico de la empresa proveedora del streaming
-* verificar cuántas horas (en tu totalidad) serán necesarias para cubrir en su totalidad todas las exposiciones del evento. 
-* verificar quién generará las claves de acceso para poder visualizar el streaming (se hará por día, por todo el evento, por un expositor determinado, por una mesa en particular?)
+* verificar cuántas horas serán necesarias para cubrir -en su totalidad- todas las exposiciones del congreso.
+* verificar que no se "filtren" sonidos del exterior (sirenas, bocinas, etc.)
+* cerciorarse que haya más de un juego de micrófonos (con su correspondiente juego de baterías de repuesto)
+* verificar quién generará las claves de acceso para poder acceder al streaming (se hará por día, por todo el evento, por un expositor determinado, por una mesa en particular?)
 * verificar quien o quienes serán los responsables del monitoreo del streaming
-* verificar que nivel de seguridad nos ofrece el servicio de streaming: por ejemplo DDoS Protection (qué medidas se tomarán en caso de intrusión o replicación del streaming)
 * verificar dìas y horarios (y comunicarlos eficientemente) del evento. Para aquellos en otras latitudes, hacer hincapiè que serán en horario oficial de Argentina (es decir UTC-03:00). Por caso, suministrar esta información: https://en.wikipedia.org/wiki/Time_in_Argentina
 * verificar si existe la posibilidad de generar energía eléctrica alternativa en el caso que haya un corte energético (power outage)
 * verificar el estado de los enchufes y que no se presenten fluctuaciones bruscas en la corriente eléctrica
@@ -19,11 +20,15 @@
 * tomar fotografías a efectos de demostrar de cómo se tomó la sala antes del evento y cómo se entrega posterior al mismo.
 * software necesario: preferentemente open-source o en su defecto, verificar licencias del proveedor del streaming
 * algoritmo de compresión & codec de audio/video que se utilizará
+* cuál es el mejor algoritmo/códec/configuración que nos ofrece la mejor relación audio-vide versus precio?
 * cerciorarse que una vez concluido el evento, se entreguen dos copias (o más copias) de las 32 horas de grabación-streaming en un formato digital a discutir 
 * verificar que los gráficos, mapas, fotografías, música incidental (aquella que se utilizaría entre expositor y expositor) estén libres de derecho de autor o bajo licencia Creative Commons.
 * informar que navegadores (browsers), versión de flash player (si fuera necesario) deben tener instalado en su computadora el usuario final para poder ver/oir el streming. 
 * Suministrar enlaces oficiales a los repositorios oficiales de los distintos navegadores y flash player sea para Mac OSX, Windows, Linux, etc. 
 * informar que dispositivos móviles están habilitados para el streaming
+* verificar qué nivel de seguridad nos ofrece el servicio de streaming: por ejemplo ante DDoS Protection (qué medidas se tomarán en caso de intrusión o replicación del streaming)
+* aquí un ejemplo del streaming que ofreció la Biblioteca Nacional: https://www.youtube.com/watch?v=YafipW-ekVk
+* aquí una comparación visual entre las distintas modalidades de streaming: https://www.youtube.com/watch?v=Fy3NKH0g9Jc    (the more bitrate, the better audio/video experience) 
 
 
 ### Por hacer
@@ -33,4 +38,5 @@
 * informar a los asistentes la señal oficial de wifi y su correspondiente contraseña
 * cerciorarse donde se alojarán las 32 horas de streaming una vez concluido el evento. 
 * aquellos que pagaron el streaming tendrán derecho a volver a ver? 
+* verificar posibilidad de incrustar subtítulos conteniendo la traducción/transcripción de la ponencia.
 
