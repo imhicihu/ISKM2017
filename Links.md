@@ -7,7 +7,7 @@
 * http://eventoalmundo.com/?gclid=CISw8K3g0dMCFQMFkQodSz0Ngg
 * https://www.solumedia.com.ar/streamingvideo.html
 * https://www.nuthost.com (envié correo pidiendo presupuesto)
-* http://www.mundostreaming.com/videovivo
+* http://www.mundostreaming.com/videovivo  (haremos un emisión de prueba, 4 de mayo, 11 horas UCT-3:00)
 * Youtube streaming (https://www.youtube.com/watch?v=1w8sKKCu2UQ)
 
 
