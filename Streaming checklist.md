@@ -19,6 +19,7 @@
 * generar un listado de todos los dispositivos técnicos que se ingresarán al edificio donde se realizará el evento. Cuanto más puntilloso sea, mejor. Y en sendos partes: nosotros y ellos, la productora del streaming.
 * tomar fotografías a efectos de demostrar de cómo se tomó la sala antes del evento y cómo se entrega posterior al mismo.
 * software necesario: preferentemente open-source o en su defecto, verificar licencias del proveedor del streaming
+* comunicar que no se suministrará energía eléctrica durante el transcurso del evento. Verificar el nivel de energía de sus notebooks, tabletas, móviles, etc.
 * algoritmo de compresión & codec de audio/video que se utilizará
 * cuál es el mejor algoritmo/códec/configuración que nos ofrece la mejor relación audio-vide versus precio?
 * cerciorarse que una vez concluido el evento, se entreguen dos copias (o más copias) de las 32 horas de grabación-streaming en un formato digital a discutir 
