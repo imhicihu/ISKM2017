@@ -29,7 +29,10 @@
 * informar que dispositivos móviles están habilitados para el streaming
 * verificar qué nivel de seguridad nos ofrece el servicio de streaming: por ejemplo ante DDoS Protection (qué medidas se tomarán en caso de intrusión o replicación del streaming)
 * aquí un ejemplo del streaming que ofreció la Biblioteca Nacional: https://www.youtube.com/watch?v=YafipW-ekVk
-* aquí una comparación visual entre las distintas modalidades de streaming: https://www.youtube.com/watch?v=Fy3NKH0g9Jc    (the more bitrate, the better audio/video experience) 
+* aquí una comparación visual entre las distintas modalidades de streaming: https://www.youtube.com/watch?v=Fy3NKH0g9Jc    (the more bitrate, the better audio/video experience)
+* verificar luces de emergencia de la(s) sala(s)
+* verificar salidas de emergencia
+* solicitar planos de las salidas de emergencia
 
 
 ### Por hacer
