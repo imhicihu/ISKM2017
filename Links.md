@@ -6,6 +6,7 @@
 * https://www.argentina-streaming.com/streaming-video.html
 * http://eventoalmundo.com/?gclid=CISw8K3g0dMCFQMFkQodSz0Ngg
 * https://www.solumedia.com.ar/streamingvideo.html
+* http://zencast.tv/  (envié consulta vía web)
 * https://www.nuthost.com (envié correo pidiendo presupuesto) (recibí comunicación telefónica, no ofrecen el servicio de streaming de video, incluso no desarrollan una solución a medida)
 * http://www.mundostreaming.com/videovivo  (haremos un emisión de prueba, 4 de mayo, 11 horas UCT-3:00)
 * Youtube streaming (https://www.youtube.com/watch?v=1w8sKKCu2UQ)
