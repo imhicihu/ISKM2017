@@ -21,3 +21,8 @@ Datos técnicos:
 * Servidores Wowza Streaming Engine / Panel de control Wowza.
 * Google MeetUp https://meet.google.com/  drawback: only 30 participants only
 
+
+Demos:
+* http://www.centerserv.com/es/servicios/alquiler-de-servidores-administrados/servidores-para-streaming/
+* 
+
