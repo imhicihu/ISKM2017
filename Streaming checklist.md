@@ -50,6 +50,8 @@
 ### Enlaces
 * https://livestream.com/  (ofrece una demo, empresa no es argentina, es de USA, precios en dólares, vía tarjeta de crédito)
 * Crowdcast. Demo online acá: https://www.crowdcast.io/e/cc-demo-0511  (loguearse con cuenta de Facebbok o Gmail)
-* Software encoders:  https://support.google.com/youtube/answer/2907883?hl=en) 
+* Software encoders:  https://support.google.com/youtube/answer/2907883?hl=en)
+* Para hacer streaming via YouTube aclara: "If you want to embed your live stream on a site, make sure that you have an approved AdSense account linked to your YouTube account." Data desde: https://support.google.com/youtube/answer/2474026?hl=en-GB
+* 
 
 
