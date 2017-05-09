@@ -27,7 +27,7 @@
 * informar que navegadores (browsers), versión de flash player (si fuera necesario) deben tener instalado en su computadora el usuario final para poder ver/oir el streming. 
 * Suministrar enlaces oficiales a los repositorios oficiales de los distintos navegadores y flash player sea para Mac OSX, Windows, Linux, etc. 
 * informar que dispositivos móviles están habilitados para el streaming
-* iframe debe soportar htlm5 (preferimos html5 en lugar de flash)
+* iframe debe soportar htlm5 (preferimos html5 versus flash)
 * verificar qué nivel de seguridad nos ofrece el servicio de streaming: por ejemplo ante DDoS Protection (qué medidas se tomarán en caso de intrusión o replicación del streaming)
 * aquí un ejemplo del streaming que ofreció la Biblioteca Nacional: https://www.youtube.com/watch?v=YafipW-ekVk
 * aquí una comparación visual entre las distintas modalidades de streaming: https://www.youtube.com/watch?v=Fy3NKH0g9Jc    (the more bitrate, the better audio/video experience)
@@ -44,6 +44,8 @@
 * cerciorarse donde se alojarán las 32 horas de streaming una vez concluido el evento. 
 * aquellos que pagaron el streaming tendrán derecho a volver a ver? 
 * verificar posibilidad de incrustar subtítulos conteniendo la traducción/transcripción de la ponencia.
+* confirmar si el acceso se va a utilizar un acceso CDN (http://directortic.es/infraestructura/por-que-usar-una-cdn-2015093014587.htm) 
+* Preguntarle a María Laura si podemos utilizar este servicio gratuito: https://www.cloudflare.com/es/plans/ 
 
 ### Enlaces
 * https://livestream.com/  (ofrece una demo, empresa no es argentina, es de USA, precios en dólares, vía tarjeta de crédito)
