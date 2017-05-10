@@ -22,6 +22,7 @@
 * comunicar que no se suministrará energía eléctrica durante el transcurso del evento. Verificar el nivel de energía de sus notebooks, tabletas, móviles, etc.
 * algoritmo de compresión & codec de audio/video que se utilizará
 * cuál es el mejor algoritmo/códec/configuración que nos ofrece la mejor relación audio-vide versus precio?
+* requerir el nombre técnico/comercial de la consola de sonido, micrófonos y cámara de video (para conseguir los manuales desde internet)
 * cerciorarse que una vez concluido el evento, se entreguen dos copias (o más copias) de las 32 horas de grabación-streaming en un formato digital a discutir 
 * verificar que los gráficos, mapas, fotografías, música incidental (aquella que se utilizaría entre expositor y expositor) estén libres de derecho de autor o bajo licencia Creative Commons.
 * informar que navegadores (browsers), versión de flash player (si fuera necesario) deben tener instalado en su computadora el usuario final para poder ver/oir el streming. 
@@ -32,8 +33,10 @@
 * aquí un ejemplo del streaming que ofreció la Biblioteca Nacional: https://www.youtube.com/watch?v=YafipW-ekVk
 * aquí una comparación visual entre las distintas modalidades de streaming: https://www.youtube.com/watch?v=Fy3NKH0g9Jc    (the more bitrate, the better audio/video experience)
 * verificar luces de emergencia de la(s) sala(s)
+* verificar donde están las luces de emergencia
 * verificar salidas de emergencia
 * solicitar planos de las salidas de emergencia
+
 
 
 ### Por hacer
