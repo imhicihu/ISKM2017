@@ -5,7 +5,7 @@
 * http://hdstreaming.com.ar (hice consulta vía web y pedido de cotización desde esta dirección: http://hdstreaming.com.ar/cotizacion/ )
 * https://www.argentina-streaming.com/streaming-video.html
 * http://eventoalmundo.com/?gclid=CISw8K3g0dMCFQMFkQodSz0Ngg
-* https://www.solumedia.com.ar/streamingvideo.html
+* https://www.solumedia.com.ar/streamingvideo.html (envié pedido de cotización vía página web)
 * http://www.sionbusiness.com/sion-streaming/ (ya envié pedido de cotización via página web)
 * http://radiosnet.com.ar/ (envié pedido de contización vía consulta de la página web)
 * https://universostream.tv/ (envié consulta de cotización vía consulta de la página de internet)
