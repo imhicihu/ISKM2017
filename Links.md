@@ -10,6 +10,7 @@
 * http://zencast.tv/  (envié consulta vía web) En la dirección de videoconferencias (http://zencast.tv/videoconferencias-html) tuve mensaje de error. El servidor no está configurado. Obtuve un error 404.
 * https://www.nuthost.com (envié correo pidiendo presupuesto) (recibí comunicación telefónica, no ofrecen el servicio de streaming de video, incluso no desarrollan una solución a medida)
 * http://www.mundostreaming.com/videovivo  (haremos un emisión de prueba, 4 de mayo, 11 horas UCT-3:00)
+* http://alro.com.ar/ (hablé telefónicamente, enviará presupuesto via email. Le envie los datos solicitados)
 * http://profesional.mercadolibre.com.ar/MLA-643611633-transmision-online-live-streaming-eventos-y-mensual-_JM  (envié consulta)
 * http://servicio.mercadolibre.com.ar/MLA-661557245-servicio-de-streaming-de-video-y-grabacion-movil-portatil-_JM  (envié consulta)
 * http://www.intralogic.com.ar/  (dejé consulta via página web)
@@ -26,6 +27,7 @@
 * Baja latencia garantizada y 99.93% uptime histórico
 * Servidores Wowza Streaming Engine / Panel de control Wowza.
 * Google MeetUp https://meet.google.com/  drawback: only 30 participants only
+* configuración de la calidad del reproductor de video: https://support.google.com/youtube/answer/2853702?hl=es-419 Tener en cuenta el pdf que envió hd-streaming Argentina. Para una calidad HD, mínimo es 720 píxeles y un valor de subida (upstream) de 4000 kbps (máximo)
 
 
 ###Demos:
