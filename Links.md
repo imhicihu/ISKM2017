@@ -1,7 +1,4 @@
-* Youtube live streaming (https://www.youtube.com/my_live_events)
-* Youtube live streaming & OBStudio (https://www.youtube.com/watch?v=YoeFXlZeRVM)
-* [https://www.ustream.tv/information/webinars?itm_source=footer&itm_medium=onsite&itm_content=Webinars&itm_campaign=webinars_link
-](https://www.ustream.tv/information/webinars?itm_source=footer&itm_medium=onsite&itm_content=Webinars&itm_campaign=webinars_link)
+###Consultas:
 * http://hdstreaming.com.ar (hice consulta vía web y pedido de cotización desde esta dirección: http://hdstreaming.com.ar/cotizacion/ )
 * https://www.argentina-streaming.com/streaming-video.html  (intenté enviar una consulta vía web, pero la página no lo permite. Entonces, lo envié vía chat)
 * http://eventoalmundo.com/servicio-streaming-contacto-cotizaciones/ (envié consulta vía página web)
@@ -16,7 +13,7 @@
 * http://profesional.mercadolibre.com.ar/MLA-643611633-transmision-online-live-streaming-eventos-y-mensual-_JM  (envié consulta)
 * http://servicio.mercadolibre.com.ar/MLA-661557245-servicio-de-streaming-de-video-y-grabacion-movil-portatil-_JM  (envié consulta)
 * http://www.intralogic.com.ar/  (dejé consulta via página web)
-* Youtube streaming (https://www.youtube.com/watch?v=1w8sKKCu2UQ)
+* https://www.duplika.com/argentina/video-streaming
 
 
 
@@ -31,5 +28,10 @@
 
 ###Demos:
 * http://www.centerserv.com/es/servicios/alquiler-de-servidores-administrados/servidores-para-streaming/
-* 
+* Youtube streaming (https://www.youtube.com/watch?v=1w8sKKCu2UQ)
 
+###Webinars
+* Youtube live streaming (https://www.youtube.com/my_live_events)
+* Youtube live streaming & OBStudio (https://www.youtube.com/watch?v=YoeFXlZeRVM)
+* [https://www.ustream.tv/information/webinars?itm_source=footer&itm_medium=onsite&itm_content=Webinars&itm_campaign=webinars_link](https://www.ustream.tv/information/webinars?itm_source=footer&itm_medium=onsite&itm_content=Webinars&itm_campaign=webinars_link)
+*
