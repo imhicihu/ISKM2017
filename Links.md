@@ -15,6 +15,7 @@
 * http://www.intralogic.com.ar/  (dejé consulta via página web)
 * https://www.duplika.com/argentina/video-streaming
 * http://masterhost.com.ar/contacto/ (están alojados en Mendoza, la asistencia técnica debe hacerse vía TeamViewer)
+* http://www.metrotel.com.ar/streaming-hd-networks/ (demasiado profesional!) 
 
 
 
