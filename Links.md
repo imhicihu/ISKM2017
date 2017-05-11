@@ -12,6 +12,8 @@
 * http://zencast.tv/  (envié consulta vía web) En la dirección de videoconferencias (http://zencast.tv/videoconferencias-html) tuve mensaje de error. El servidor no está configurado. Obtuve un error 404.
 * https://www.nuthost.com (envié correo pidiendo presupuesto) (recibí comunicación telefónica, no ofrecen el servicio de streaming de video, incluso no desarrollan una solución a medida)
 * http://www.mundostreaming.com/videovivo  (haremos un emisión de prueba, 4 de mayo, 11 horas UCT-3:00)
+* http://profesional.mercadolibre.com.ar/MLA-643611633-transmision-online-live-streaming-eventos-y-mensual-_JM  (envié consulta)
+* 
 * Youtube streaming (https://www.youtube.com/watch?v=1w8sKKCu2UQ)
 
 
