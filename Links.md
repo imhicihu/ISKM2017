@@ -13,7 +13,8 @@
 * https://www.nuthost.com (envié correo pidiendo presupuesto) (recibí comunicación telefónica, no ofrecen el servicio de streaming de video, incluso no desarrollan una solución a medida)
 * http://www.mundostreaming.com/videovivo  (haremos un emisión de prueba, 4 de mayo, 11 horas UCT-3:00)
 * http://profesional.mercadolibre.com.ar/MLA-643611633-transmision-online-live-streaming-eventos-y-mensual-_JM  (envié consulta)
-* 
+* http://servicio.mercadolibre.com.ar/MLA-661557245-servicio-de-streaming-de-video-y-grabacion-movil-portatil-_JM  (envié consulta)
+* http://www.intralogic.com.ar/  (dejé consulta via página web)
 * Youtube streaming (https://www.youtube.com/watch?v=1w8sKKCu2UQ)
 
 
