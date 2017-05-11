@@ -14,6 +14,7 @@
 * http://servicio.mercadolibre.com.ar/MLA-661557245-servicio-de-streaming-de-video-y-grabacion-movil-portatil-_JM  (envié consulta)
 * http://www.intralogic.com.ar/  (dejé consulta via página web)
 * https://www.duplika.com/argentina/video-streaming
+* http://masterhost.com.ar/contacto/ (están alojados en Mendoza, la asistencia técnica debe hacerse vía TeamViewer)
 
 
 
