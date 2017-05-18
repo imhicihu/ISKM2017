@@ -49,7 +49,7 @@
 * verificar posibilidad de incrustar subtítulos conteniendo la traducción/transcripción de la ponencia.
 * confirmar si el acceso se va a utilizar un acceso CDN (http://directortic.es/infraestructura/por-que-usar-una-cdn-2015093014587.htm) 
 + Preguntarle a María Laura si podemos utilizar este servicio gratuito: https://www.cloudflare.com/es/plans/
-   El servicio de Cloudfare no lo utilizaremos. Si pondrá el servidor preparado para el "stress". Apuntó a las fechas suministradas. Posibilidad de hacer "pruebas". 
+   * El servicio de Cloudfare no lo utilizaremos. Si pondrá el servidor preparado para el "stress". Apuntó a las fechas suministradas. Posibilidad de hacer "pruebas". 
 
 ### Enlaces
 * ejemplo de página de internet donde están los livestream de Microsoft, escindidos por autores, tópicos, etc.: https://channel9.msdn.com/Events/Build/2017 
@@ -57,7 +57,7 @@
 * Crowdcast. Demo online acá: https://www.crowdcast.io/e/cc-demo-0511  (loguearse con cuenta de Facebbok o Gmail)
 * Software encoders:  https://support.google.com/youtube/answer/2907883?hl=en)
 * Para hacer streaming via YouTube aclara: "If you want to embed your live stream on a site, make sure that you have an approved AdSense account linked to your YouTube account." Data desde: https://support.google.com/youtube/answer/2474026?hl=en-GB
-* 
+* Verificación de errores en la transmisión. El procedimiento de Youtube se encuentra acá: https://support.google.com/youtube/answer/3006768
 
 ### Preguntas
 * los sponsors aparecerán con su logo en la señal del streaming? (por ejemplo: Beta Analytic? 
