@@ -14,7 +14,7 @@
 * http://profesional.mercadolibre.com.ar/MLA-643611633-transmision-online-live-streaming-eventos-y-mensual-_JM  (envié consulta)
 * http://servicio.mercadolibre.com.ar/MLA-661557245-servicio-de-streaming-de-video-y-grabacion-movil-portatil-_JM  (envié consulta)
 * http://www.intralogic.com.ar/  (dejé consulta via página web)
-* https://www.duplika.com/argentina/video-streaming
+* https://www.duplika.com/argentina/video-streaming (contestación: "deben contar con una cámara, computadora y acceso a Internet para poder hacerlo con nosotros."
 * http://masterhost.com.ar/contacto/ (están alojados en Mendoza, la asistencia técnica debe hacerse vía TeamViewer)
 * http://www.metrotel.com.ar/streaming-hd-networks/ (demasiado profesional!) 
 
