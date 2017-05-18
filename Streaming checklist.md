@@ -58,6 +58,7 @@
 * Software encoders:  https://support.google.com/youtube/answer/2907883?hl=en)
 * Para hacer streaming via YouTube aclara: "If you want to embed your live stream on a site, make sure that you have an approved AdSense account linked to your YouTube account." Data desde: https://support.google.com/youtube/answer/2474026?hl=en-GB
 * Verificación de errores en la transmisión. El procedimiento de Youtube se encuentra acá: https://support.google.com/youtube/answer/3006768
+* Streaming calculator: (http://www.techex.co.uk/streaming-calculator "http://www.techex.co.uk/streaming-calculator")
 
 ### Preguntas
 * los sponsors aparecerán con su logo en la señal del streaming? (por ejemplo: Beta Analytic? 
