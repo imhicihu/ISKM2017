@@ -5,6 +5,7 @@
 * https://www.solumedia.com.ar/streamingvideo.html (envié pedido de cotización vía página web)
 * http://www.sionbusiness.com/sion-streaming/ (ya envié pedido de cotización via página web)
 * http://radiosnet.com.ar/ (envié pedido de contización vía consulta de la página web)
+* https://www.argentina-streaming.com/contacto.html // Me enviaron este enlace con sus precios:  Los precios se encuentran acá: https://www.paneldeclientes.com/cart.php?gid=7  (precios hasta nivel profesional)
 * https://universostream.tv/contacto.php (envié consulta de cotización vía página de internet)
 * https://universostream.tv/ (envié consulta de cotización vía consulta de la página de internet)
 * http://zencast.tv/  (envié consulta vía web) En la dirección de videoconferencias (http://zencast.tv/videoconferencias-html) tuve mensaje de error. El servidor no está configurado. Obtuve un error 404.
