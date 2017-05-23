@@ -20,6 +20,7 @@
 * https://www.wnpower.com/streaming/multimedia (barato, pero con baja calidad de video, el paquete premium es de 25 usuarios simultàneos y 384 Kpbs)
 * https://inovanex.com/video-streaming/ (probablemente encajemos en las opciones Profesional o Plus) 
 * http://www.smedia.com/streaming.php  (envié email hoy 23/5/17, pedido de cotización)
+* http://www.arcast.tv/precios/precios-streaming-video.html (dejé consulta via web)
 
 
 
