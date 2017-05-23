@@ -7,7 +7,6 @@
 * http://radiosnet.com.ar/ (envié pedido de contización vía consulta de la página web)
 * https://www.argentina-streaming.com/contacto.html // Me enviaron este enlace con sus precios:  Los precios se encuentran acá: https://www.paneldeclientes.com/cart.php?gid=7  (precios hasta nivel profesional)
 * https://universostream.tv/contacto.php (envié consulta de cotización vía página de internet)
-* https://universostream.tv/ (envié consulta de cotización vía consulta de la página de internet)
 * http://zencast.tv/  (envié consulta vía web) En la dirección de videoconferencias (http://zencast.tv/videoconferencias-html) tuve mensaje de error. El servidor no está configurado. Obtuve un error 404.
 * https://www.nuthost.com (envié correo pidiendo presupuesto) (recibí comunicación telefónica, no ofrecen el servicio de streaming de video, incluso no desarrollan una solución a medida)
 * http://www.mundostreaming.com/videovivo  (haremos un emisión de prueba, 4 de mayo, 11 horas UCT-3:00)
