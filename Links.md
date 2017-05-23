@@ -23,6 +23,7 @@
 * http://www.arcast.tv/precios/precios-streaming-video.html (dejé consulta via web)
 * http://www.jargon.com.ar/ (envié consulta via web)
 * http://www.stweb.tv/ (envié consulta via correo electrònico)
+* http://www.unlugar.com/streaming  (servicio de streaming deficiente, sòlo 256 Kbps para 100 usuarios simultáneos)
 
 
 
