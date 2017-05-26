@@ -21,7 +21,7 @@
 * https://inovanex.com/video-streaming/ (probablemente encajemos en las opciones Profesional o Plus) 
 * http://www.smedia.com/streaming.php  (envié email hoy 23/5/17, pedido de cotización)
 * http://www.arcast.tv/precios/precios-streaming-video.html (dejé consulta via web)
-* http://www.jargon.com.ar/ (envié consulta via web)
+* http://www.jargon.com.ar/ (envié consulta via web) (contesté el pedido de información, a la espera del presupuesto 26-5-2017))
 * http://www.stweb.tv/ (envié consulta via correo electrònico)
 * http://www.unlugar.com/streaming  (servicio de streaming deficiente, sòlo 256 Kbps para 100 usuarios simultáneos)
 
