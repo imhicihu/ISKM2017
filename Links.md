@@ -25,8 +25,7 @@
 * http://www.stweb.tv/ (envié consulta via correo electrònico)
 * http://www.unlugar.com/streaming  (servicio de streaming deficiente, sòlo 256 Kbps para 100 usuarios simultáneos)
 
-
-
+-----------
 
 ###Datos técnicos:
 * Formatos de emisión: MP4 H.264, bajo protocolo RTMP/RTSP, HTTP.
@@ -36,20 +35,27 @@
 * Google MeetUp https://meet.google.com/  drawback: only 30 participants only
 * configuración de la calidad del reproductor de video: https://support.google.com/youtube/answer/2853702?hl=es-419 Tener en cuenta el pdf que envió hd-streaming Argentina. Para una calidad HD, mínimo es 720 píxeles y un valor de subida (upstream) de 4000 kbps (máximo)
 
-
+------------
 ###Demos:
 * http://www.centerserv.com/es/servicios/alquiler-de-servidores-administrados/servidores-para-streaming/
 * Youtube streaming (https://www.youtube.com/watch?v=1w8sKKCu2UQ)
+
+------------
 
 ###Webinars
 * Youtube live streaming (https://www.youtube.com/my_live_events)
 * Youtube live streaming & OBStudio (https://www.youtube.com/watch?v=YoeFXlZeRVM)
 * [https://www.ustream.tv/information/webinars?itm_source=footer&itm_medium=onsite&itm_content=Webinars&itm_campaign=webinars_link](https://www.ustream.tv/information/webinars?itm_source=footer&itm_medium=onsite&itm_content=Webinars&itm_campaign=webinars_link)
 
+------------
+
 ###Streaming calculator
 * [Techex](http://www.techex.co.uk/streaming-calculator)
 * [PlanetScream](http://www.planetstream.net/prices/live-event-calculator.html)
-* 
+* [Streaming Media](https://streamingmediahosting.com/support/calculator/)
+* [Influxis](https://influxis.com/calculator/)
+
+------------
 
 ###Bandwith calculator
 * [Netromedia](www.netromedia.com/knowledge-centre/bandwidth-calculator/)
