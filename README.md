@@ -24,5 +24,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* Repo owner or admin:
+     Contact `imhicihu at gmail dot com`
+* Other community or team 
+     This is a closed project.
