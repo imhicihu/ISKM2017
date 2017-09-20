@@ -1,11 +1,11 @@
-# README #
+# Rationale #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This document is related to the website of ISKM 2017. The source and commits, the workflow _et alia_ on behalf of security.
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
+* Worflow in the making of website, webapps, mobile content, etc.
+* Version 1.3
 
 ### How do I get set up? ###
 
