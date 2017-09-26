@@ -1,3 +1,5 @@
+* install the Adobe Connect Add-in
+* Official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm)
 * Those remote orators must engage in not change their technical settings from the pre-rehearsal session to the day of the event. Custom profiles (audio-video) will be done prior the streaming event.
 * Connect directly to the fastest Internet connection available. 
 * Avoid using wireless connections.
@@ -10,6 +12,7 @@
 * Disabe remote connections
 * Disabel Airplay (on mac computers)
 * minimun screen size of remote orator: 640 x 480 pixels
+* Avoid streaming from this browsers: Internet Explorer, Microsoft Edge, Opera, Safari
 * Disable any incoming sound that can comes inside your room (ie: telephone rings, alarms, baby calls, alarm rings, watch alarms, etc.)
 * Disable computer hibernation (ie: stop hard disk, screen goes black, operating system goes freeze...) during your presentation.
 * Generate custom profiles for audio/video settings according every orator
