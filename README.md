@@ -1,6 +1,6 @@
 # Rationale #
 
-This document is related to the website of ISKM 2017. The source and commits, the workflow _et alia_ on behalf of security.
+This document is related to the website of ISKM 2017. The (internal) source and commits & the workflow _et alia_ is not shared on behalf of security.
 
 ### What is this repository for? ###
 
@@ -18,7 +18,7 @@ This document is related to the website of ISKM 2017. The source and commits, th
 * How to run tests
      - No data is provided. From the beginning, some privacy & security issues must be fulfilled.
 * Deployment instructions
-     - This repo is an internal project. 
+     - This repo is a project related with a symposium. So, the _rationale_ begins and ends with it.
 
 ### Contribution guidelines ###
 
