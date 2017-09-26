@@ -21,3 +21,10 @@
 * Photos without flash can be taken
 * Consider an _In extremis_ solution: installation of TeamViewer, Microsoft Remote Control, Chrome Remote Desktop
 
+
+##Miscellaneous
+* official presentation format: PPT (Microsoft PowerPoint)®
+* any image, video, music, typography enclosed in the presentation shouldn't violate any copyright.
+* any typography with non-western typeface should be sent separately (not all the operating systems render graphica objects in the same way). Or just embed in the presentation.
+* any movie must be sent separately via organizer's committee email or WeTransfer.com to avoid digital corruption on the ppt file.
+* verify that your video can be seen in vlc (videolan.org)
