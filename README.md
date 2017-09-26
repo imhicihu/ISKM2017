@@ -10,8 +10,6 @@ This document is related to the website of ISKM 2017. The source and commits, th
 ### How do I get set up? ###
 
 * Summary of set up
-
-* Configuration
      - an Apache server. A _legit_ CPanel account. A CMS to install. 
 * Dependencies
      - _the less, the better_. A personal [motto](http://dictionary.cambridge.org/es/diccionario/ingles/motto)
