@@ -31,5 +31,3 @@ This document is related to the website of ISKM 2017. The (internal) source and 
 
 * Repo owner or admin:
      - Contact `imhicihu at gmail dot com`
-* Other community or team 
-     - This is a closed project.
