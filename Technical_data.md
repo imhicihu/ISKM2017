@@ -1,20 +1,20 @@
 ###Consultas:
-* all data was migrated to our _Issues_ section.
+* all data was migrated to our _Issues_ section. 
 
 -----------
 
-###Datos tÃ©cnicos:
+###Datos técnicos: (provistos por otro servicio de streaming)
 * Formatos de emisiÃ³n: MP4 H.264, bajo protocolo RTMP/RTSP, HTTP.
 * Posibilidad de HLS (HTTP Live Streaming) y ABR (Adaptative bitrate).
 * Baja latencia garantizada y 99.93% uptime histÃ³rico
 * Servidores Wowza Streaming Engine / Panel de control Wowza.
-* Google MeetUp https://meet.google.com/  drawback: only 30 participants only
-* configuraciÃ³n de la calidad del reproductor de video: https://support.google.com/youtube/answer/2853702?hl=es-419 Tener en cuenta el pdf que enviÃ³ hd-streaming Argentina. Para una calidad HD, mÃ­nimo es 720 pÃ­xeles y un valor de subida (upstream) de 4000 kbps (mÃ¡ximo)
+* ~~Google MeetUp https://meet.google.com/  drawback: only 30 participants only~~
+* configuración de la calidad del reproductor de video: https://support.google.com/youtube/answer/2853702?hl=es-419 Tener en cuenta el pdf que enviÃ³ hd-streaming Argentina. Para una calidad HD, mÃ­nimo es 720 pÃ­xeles y un valor de subida (upstream) de 4000 kbps (mÃ¡ximo)
 
 ------------
 ###Demos:
 * http://www.centerserv.com/es/servicios/alquiler-de-servidores-administrados/servidores-para-streaming/
-* Youtube streaming (https://www.youtube.com/watch?v=1w8sKKCu2UQ)
+* [Youtube streaming](https://www.youtube.com/watch?v=1w8sKKCu2UQ)
 
 ------------
 
