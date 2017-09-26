@@ -13,5 +13,5 @@
 * Essentially, during the streaming event must be open **only** your browser.
 * The streaming event can not be recorded in any electronic form.
 * Photos without flash can be taken
-* Consider an _In extremis_ solution: installation of TeamViewer (remote control)
+* Consider an _In extremis_ solution: installation of TeamViewer, Microsoft Remote Control, Chrome Remote Desktop
 
