@@ -24,6 +24,8 @@
 
 ##Miscellaneous
 * _Common sense rules everything._
+* Evacuation plans
+* Insurance policy?
 * Consider a great contrast between your color background and the color of your fonts. (ptf file)
 * Official presentation format: PPT (Microsoft PowerPoint)�
 * Any image, video, music, typography enclosed in the presentation shouldn't violate any copyright.
