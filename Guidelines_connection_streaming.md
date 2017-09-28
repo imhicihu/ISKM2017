@@ -23,9 +23,11 @@
 
 
 ##Miscellaneous
-* consider a great contrast between your color background and the color of your fonts.
-* official presentation format: PPT (Microsoft PowerPoint)®
-* any image, video, music, typography enclosed in the presentation shouldn't violate any copyright.
-* any typography with non-western typeface should be sent separately (not all the operating systems render graphica objects in the same way). Or just embed in the presentation.
-* any movie must be sent separately via organizer's committee email or WeTransfer.com to avoid digital corruption on the ppt file.
-* verify that your video can be seen in vlc (videolan.org)
+* Consider a great contrast between your color background and the color of your fonts. (ptf file)
+* Official presentation format: PPT (Microsoft PowerPoint)ï¿½
+* Any image, video, music, typography enclosed in the presentation shouldn't violate any copyright.
+* Any typography with non-western typeface should be sent separately (not all the operating systems render graphica objects in the same way). Or just embed in the presentation.
+* Any movie must be sent separately via organizer's committee email or WeTransfer.com to avoid digital corruption on the ppt file.
+* Verify that your video can be seen in vlc (videolan.org)
+* No electrical supply will be available on room's congress. Fully charge your batteries.
+* Historical weather data of Buenos Aires on november can be found here: [Precipitaciones mensuales y dÃ­as con precipitaciones. Ciudad de Buenos Aires. Enero 1991/diciembre 2017](https://www.estadisticaciudad.gob.ar/eyc/?p=64793) or [Weather Channel Historical data](https://weather.com/weather/monthly/l/ARBA0009:1:AR)
