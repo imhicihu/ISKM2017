@@ -9,8 +9,8 @@
 * Prior to the event, write in a paper all those passwords that eventually can be useful for you
 * Shut down email, instant messaging, Facebook Messenger, Whatsapp messenger, Telegram messenger, system notifications (ie: Operating system, browser itself, etc.)
 * Disable screensavers
-* Disabe remote connections
-* Disabel Airplay (on mac computers)
+* Disable remote connections
+* Disable Airplay (on mac computers)
 * minimun screen size of remote orator: 640 x 480 pixels
 * Avoid streaming from this browsers: Internet Explorer, Microsoft Edge, Opera, Safari
 * Disable any incoming sound that can comes inside your room (ie: telephone rings, alarms, baby calls, alarm rings, watch alarms, etc.)
