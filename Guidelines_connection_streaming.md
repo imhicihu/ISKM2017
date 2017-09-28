@@ -31,4 +31,5 @@
 * Verify that your video can be seen in vlc (videolan.org)
 * No electrical supply will be available on room's congress. Fully charge your batteries.
 * Historical weather data of Buenos Aires on november can be found here: [Precipitaciones mensuales y días con precipitaciones. Ciudad de Buenos Aires. Enero 1991/diciembre 2017](https://www.estadisticaciudad.gob.ar/eyc/?p=64793) or [Weather Channel Historical data](https://weather.com/weather/monthly/l/ARBA0009:1:AR)
-* [Downloadable Apps](https://turismo.buenosaires.gob.ar/en/article/downloadable-apps) related with Buenos Aires: 
+* [Downloadable Apps](https://turismo.buenosaires.gob.ar/en/article/downloadable-apps) related with Buenos Aires
+* Electric current in Argentina is AC 220-380 volts. Electric plug configurations are 2 or 3 flat pins with the top two slightly angled, as in the picture above. Travellers are therefore advised to carry adapters and/or transformers. Check this page: [Plugs of thw world](http://www.iec.ch/worldplugs/list_bylocation.htm)
