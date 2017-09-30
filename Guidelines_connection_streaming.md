@@ -12,6 +12,10 @@
 * Disable screensavers
 * Disable remote connections
 * Disable Airplay (on mac computers)
+* Disable any encryption schema:
+     - FileVault (MacOSX)
+	 - Bitlocker (Windows)
+	 - LUKS (Linux)
 * minimun screen size of remote orator: 640 x 480 pixels
 * during your transmission, avoid show reflective surfaces and minimal size
 * Avoid streaming from this browsers: Internet Explorer, Microsoft Edge, Opera, Safari
