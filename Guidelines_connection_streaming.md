@@ -1,5 +1,25 @@
+# Discriminate by human actions / hardware-software side
+
 ##Good Practices (proposal)
-* install the Adobe Connect Add-in from https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html
+* Fully charge your notebook's battery
+* If you are an expositor, verify your surround light conditions. Everybody want to see your face :)
+* Verify that you are out of malware & virus
+* Test your bandwidth: ie http://beta.speedtest.net/#
+* Test your audio card / webcam
+* Adobe Flash player updated to the latest version
+* Preferred browser: Mozilla Firefox (the latest version, the better)
+* Run Mozilla Firefox with the less enabled add-ins as possible
+* Clear your Cached Web Content before the streaming event
+* Defragment your hard disk (where the Mozilla Firefox is installed)
+* During the streaming, do not enable background operations (defragmentation, antivirus scanning, stream online music besides the ISKM 2017, avoid pending updates (ie Microsoft Updates, antivirus definitions, et alia),
+* Disable  (temporary) file & screen sharing during the streaming event
+* Disable (temporary) your firewall during the streaming event
+* Disable  (temporary) any disk drive encryption schema
+* Avoid log in or use a VPN connection along the streaming event. You will be kicked up
+* Avoid open a "New Private Window" (Firefox) / "New Incognito windows" (Chrome) to access the streaming event. You will be kicked up.
+* Launch your browser as Run as Administrator
+* Verify your time-zone against the streaming event
+* install Adobe Connect Add-in from https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html
 * Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm) from this browsers: Mozilla Firefox, Google Chrome. Personally I do not pass from Opera & Microsoft Internet Explorer
 * Those remote orators must engage in not change their technical settings from the pre-rehearsal session to the day of the event. Custom profiles (audio-video) will be done prior the streaming event.
 * Connect directly to the fastest Internet connection available
