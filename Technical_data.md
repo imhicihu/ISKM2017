@@ -7,6 +7,9 @@
 * Formatos de emisión: MP4 H.264, bajo protocolo RTMP/RTSP, HTTP.
 * Posibilidad de HLS (HTTP Live Streaming) y ABR (Adaptative bitrate).
 * Baja latencia garantizada y 99.93% uptime histórico
+* Adobe Media encoder
+* encoding format: H.264
+* size media: 480x360
 * Servidores Wowza Streaming Engine / Panel de control Wowza.
 * ~~Google MeetUp https://meet.google.com/  drawback: only 30 participants only~~
 * Configuración de la calidad del reproductor de video: https://support.google.com/youtube/answer/2853702?hl=es-419 Tener en cuenta el pdf que envió hd-streaming Argentina. Para una calidad HD, mínimo es 720 píxeles y un valor de subida (upstream) de 4000 kbps (máximo)
