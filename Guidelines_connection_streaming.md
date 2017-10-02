@@ -34,6 +34,7 @@
 * Medical insurance?
 * Consider a great contrast between your color background and the color of your fonts. (ptf file)
 * Official presentation format: PPT (Microsoft PowerPoint)
+* PowerPoint presentation must **not** be password protected
 * all the audio/video/sound/graphic embedded in the presentation do not have copyright issues. Or give appropriate credit.
 * Any image, video, music, typography enclosed in the presentation shouldn't violate any copyright.
 * Any typography with non-western typeface should be sent separately (not all the operating systems render graphica objects in the same way). Or just embed in the presentation.
