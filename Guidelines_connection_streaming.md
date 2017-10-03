@@ -73,24 +73,26 @@
 * Essentially, during your remote presentation must be open only your browser, your webcam and your microphone.
 
 ###Room assistant
-* Fully charge your notebook's battery. We won't supply electricity during the event. (VERIFY THIS)
+* Fully charge your mobile or notebook's battery. We won't supply electricity during the event. (VERIFY THIS)
 * No food. No drinks on both rooms.
 * Photos without flash can be taken along the meeting.
 
 ##Miscellaneous
 * _Common sense rules everything._
 * Evacuation plans (maps)?? VERIFY THIS
-* Insurance policy? VERIFY THIS
+* Insurance policy of the assistants? VERIFY THIS
+* Security policy inside/outside rooms? VERIFY THIS
 * Medical insurance? VERIFY THIS
+* Press Kit? to send to CONICET?
 * Historical weather data of Buenos Aires on november can be found here: [Precipitaciones mensuales y dias con precipitaciones. Ciudad de Buenos Aires. Enero 1991/diciembre 2017](https://www.estadisticaciudad.gob.ar/eyc/?p=64793) or [Weather Channel Historical data](https://weather.com/weather/monthly/l/ARBA0009:1:AR)
 * [Downloadable Apps](https://turismo.buenosaires.gob.ar/en/article/downloadable-apps) related with Buenos Aires
 * Electric current in Argentina is AC 220-380 volts. Electric plug configurations are 2 or 3 flat pins with the top two slightly angled. Travellers are therefore advised to carry adapters and/or transformers. Check this page: [Plugs of the world](http://www.iec.ch/worldplugs/list_bylocation.htm)
 
-
-###Technical data (minutae)
+###Technical data
 * Official presentation format: PPT (Microsoft PowerPoint).
 * PowerPoint presentation must **not** be password protected.
 * Any image, video, music, typography embedded in the presentation (`.ppt`) shouldn't violate any copyright.
 * Any typography with non-western typeface (i.e. chinese, japanese, vietnamese) should be sent separately: Not all operating systems render graphica objects in the same way.
 * Any video must be sent separately via Organizer's Committee email or WeTransfer.com to avoid digital corruption on the `.ppt` file. (VERIFY THIS)
 * Verify that your video can be seen by the media player `VLC` (https://www.videolan.org/vlc/). If `positive`, you are out-of-trouble.
+* Official graphical data will be online soon.
