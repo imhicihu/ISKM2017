@@ -1,50 +1,44 @@
-# Discriminate by human actions / hardware-software side
-
+#Discriminate by human actions / hardware-software side
 ##Good Practices (proposal)
-* Fully charge your notebook's battery
-* If you are an expositor, verify your surround light conditions. Everybody want to see your face :)
-* Verify that you are out of malware & virus
-* Test your bandwidth: ie http://beta.speedtest.net/#
-* Test your audio card / webcam
-* Update Adobe Flash player to the latest version
-* Preferred browser: Mozilla Firefox (the latest version, the better)
-* Run Mozilla Firefox with the less enabled add-ins as possible
-* Clear your Cached Web Content before the streaming event
-* Defragment your hard disk (where the Mozilla Firefox is installed)
-* During the streaming, do not enable background operations (defragmentation, antivirus scanning, stream online music besides the ISKM 2017, avoid pending updates (ie Microsoft Updates, antivirus definitions, et alia),
-* Disable  (temporary) file & screen sharing during the streaming event
-* Disable (temporary) your firewall during the streaming event
-* Disable  (temporary) any disk drive encryption schema
-* Avoid log in or use a VPN connection along the streaming event. You will be kicked up
-* Avoid open a "New Private Window" (Firefox) / "New Incognito windows" (Chrome) to access the streaming event. You will be kicked up.
-* Launch your browser as Run as Administrator
-* Verify your time-zone against the streaming event
-* install Adobe Connect Add-in from https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html
-* Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm) from this browsers: Mozilla Firefox, Google Chrome. Personally I do not pass from Opera & Microsoft Internet Explorer
-* Those remote orators must engage in not change their technical settings from the pre-rehearsal session to the day of the event. Custom profiles (audio-video) will be done prior the streaming event.
-* Connect directly to the fastest Internet connection available
-* Avoid using wireless connections
-* Avoid VOIP connections
-* Transmit your presentation in a peaceful room
-* Avoid connect through a proxy server
-* Prior to the event, write in a paper all those passwords that eventually can be useful for you moments before your transmission
-* Shut down email, instant messaging, Facebook Messenger, Whatsapp messenger, Telegram messenger, system notifications (ie: Operating system, browser itself, etc.)
-* Disable screensavers
-* Disable remote connections
-* Disable Airplay (on mac computers)
-* Disable any encryption schema:
-     - FileVault (MacOSX)
-	 - Bitlocker (Windows)
-	 - LUKS (Linux)
-* minimun screen size of remote orator: 640 x 480 pixels
-* during your transmission, avoid show reflective surfaces and minimal size
-* Avoid streaming from this browsers: Internet Explorer, Microsoft Edge, Opera, Safari
-* Disable any incoming sound that can comes inside your room (ie: telephone rings, alarms, baby calls, alarm rings, watch alarms, etc.)
-* Disable computer hibernation (ie: stop hard disk, screen goes black, operating system goes freeze...) during your presentation.
-* Generate custom profiles for audio/video settings according every orator
-* Essentially, during the streaming event must be open **only** your browser
-* The streaming event can not be recorded in any electronic form
-* Consider an _In extremis_ solution: installation of TeamViewer or Microsoft Remote Control or Chrome Remote Desktop 
+###Orator
+* Verify you are connected to electrical surge.
+* Fully charge your notebook's battery.
+* Verify your time-zone. ISKM2017's official hour is UTC-03:00.
+* Verify that you are out of malware & virus.
+* Test your audio card / webcam.
+* Avoid use a VPN connection.
+* Avoid connect through a proxy server.
+* Avoid using wireless connections.
+* Avoid VOIP connections.
+* Connect through network cable to the fastest connection as possible.
+* Test your bandwidth: ie.: http://beta.speedtest.net/#
+* Minimun screen size: 800 x 600 pixels. (VERIFY THIS)
+* Defragment your hard disk (where the Mozilla Firefox is installed).
+* During the streaming, do not enable background operations (defragmentation, antivirus scanning, stream online music [besides the ISKM 2017], avoid pending updates (ie.. Microsoft Updates, antivirus definitions, et alia).
+* Shut down instant messaging, email, system notifications (ie: from operating system, browser itself, etc.).
+* Disable any energy saver activity during your streaming (ie: stop hard disk, screen goes black, operating system goes freeze...)
+* Disable (temporary) your firewall during the streaming event.
+* Disable (temporary) file & screen sharing during the streaming event.
+* Disable (temporary) file & screen sharing during the streaming event.
+* Disable  (temporary) any disk drive encryption schema:
+    - FileVault (MacOSX)
+	- Bitlocker (Windows)
+	- LUKS (Linux)
+* Disable (temporary) remote connections with other computers.
+* Disable (temporary) Airplay (on mac computers)
+* Disable screensaver.
+* Update Adobe Flash player to the latest version.
+* Earlier versions of Adobe Connect than version 9 must be uninstalled.
+* Install Adobe Connect Add-in from https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html.
+* Verify that you are running the latest version of Mozilla Firefox (preferred browser).
+* Run Mozilla Firefox with the essential add-ins as possible (the less, the better).
+* Launch your Mozilla Firefox as `Run as Administrator`
+* Clear your `Mozilla's Cached Web Content` before the streaming event.
+* Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
+* Go to: `https:https://salvador.adobeconnect.com/`. Log in with the supplied username and password. (REVIEW THIS  STEP)
+* Those remote orators must engage in not change their technical settings (hardware and software) from the pre-rehearsal session to the day of the event. Custom profiles (audio-video) will be done prior to the streaming event by us.
+* Transmit your presentation in a peaceful room. Disable any incoming sound that can comes inside your room (ie: telephone rings, alarms, baby calls, alarm rings, watch alarms, etc.)
+* Verify your surround light conditions. Everybody want to see your work.
 
 
 ##Miscellaneous
@@ -61,7 +55,7 @@
 * Any movie must be sent separately via organizer's committee email or WeTransfer.com to avoid digital corruption on the ppt file.
 * Verify that your video can be seen in vlc (videolan.org)
 * No electrical supply will be available on room's congress. Fully charge your batteries.
-* Historical weather data of Buenos Aires on november can be found here: [Precipitaciones mensuales y días con precipitaciones. Ciudad de Buenos Aires. Enero 1991/diciembre 2017](https://www.estadisticaciudad.gob.ar/eyc/?p=64793) or [Weather Channel Historical data](https://weather.com/weather/monthly/l/ARBA0009:1:AR)
+* Historical weather data of Buenos Aires on november can be found here: [Precipitaciones mensuales y dï¿½as con precipitaciones. Ciudad de Buenos Aires. Enero 1991/diciembre 2017](https://www.estadisticaciudad.gob.ar/eyc/?p=64793) or [Weather Channel Historical data](https://weather.com/weather/monthly/l/ARBA0009:1:AR)
 * [Downloadable Apps](https://turismo.buenosaires.gob.ar/en/article/downloadable-apps) related with Buenos Aires
 * Electric current in Argentina is AC 220-380 volts. Electric plug configurations are 2 or 3 flat pins with the top two slightly angled, as in the picture above. Travellers are therefore advised to carry adapters and/or transformers. Check this page: [Plugs of thw world](http://www.iec.ch/worldplugs/list_bylocation.htm)
 * No food. No drinks on rooms.
