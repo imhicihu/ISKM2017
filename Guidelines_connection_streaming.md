@@ -14,6 +14,7 @@
 * Test your bandwidth: ie.: http://beta.speedtest.net/#
 * Minimun screen size: 800 x 600 pixels. (VERIFY THIS)
 * Defragment your hard disk (where the Mozilla Firefox is installed).
+* Verify that your hard disk (where your browser is installed) got -at least- 10 GB of free space.
 * During the streaming, do not enable background operations (defragmentation, antivirus scanning, stream online music [besides the ISKM 2017], avoid pending updates (ie.. Microsoft Updates, antivirus definitions, et alia).
 * Shut down instant messaging, email, system notifications (ie: from operating system, browser itself, etc.).
 * Disable any energy saver activity during your streaming (ie: stop hard disk, screen goes black, operating system goes freeze...)
