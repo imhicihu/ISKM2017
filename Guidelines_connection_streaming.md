@@ -17,9 +17,8 @@
 * Verify that your hard disk (where your browser is installed) got -at least- 10 GB of free space available.
 * During the streaming, do not enable background operations (defragmentation, antivirus scanning, stream online music [besides the ISKM 2017], avoid pending updates (ie.. Apple App store updates, Microsoft Updates, antivirus definitions, et alia).
 * Shut down instant messaging, email, system notifications (ie: from operating system, browser itself, social networks, etc.).
-* Disable any energy saver activity during your streaming (ie: stop hard disk, screen goes black, operating system goes freeze...)
+* Disable any energy saver activity of your operating system during your streaming (ie: stop hard disk, screen goes black, operating system goes freeze...)
 * Disable (temporary) your firewall during the streaming event.
-* Disable (temporary) file & screen sharing during the streaming event.
 * Disable (temporary) file & screen sharing during the streaming event.
 * Disable  (temporary) any disk drive encryption schema:
     - FileVault (MacOSX)
