@@ -35,7 +35,7 @@
 * Launch your Mozilla Firefox as `Run as Administrator`
 * Clear your `Mozilla's Cached Web Content` before your streaming.
 * Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
-* Go to: `[https://salvador.adobeconnect.com/](https:https://salvador.adobeconnect.com/)`. Log in with the supplied username and password. (REVIEW THIS  STEP)
+* Go to: [https://salvador.adobeconnect.com/](https:https://salvador.adobeconnect.com/). Login with the supplied username and password. (REVIEW THIS  STEP)
 * Those remote orators must engage in not change their technical settings (hardware and software) from the pre-rehearsal session to the day of the event. Custom profiles (audio-video) will be created prior to the streaming event by us.
 * Essentially, during your remote presentation must be open **only** your browser, your webcam and your microphone.
 * Transmit your presentation in a peaceful room. Disable any incoming sound that can comes inside your room (ie: telephone rings, alarms, baby calls, alarm rings, watch alarms, etc.)
