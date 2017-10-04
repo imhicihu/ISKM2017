@@ -15,7 +15,7 @@
 * Minimun screen size: 800 x 600 pixels. (VERIFY THIS)
 * Defragment your hard disk (where the Mozilla Firefox is installed).
 * Verify that your hard disk (where your browser is installed) got -at least- 10 GB of free space available.
-* During the streaming, do not enable background operations (defragmentation, antivirus scanning, stream online music [besides the ISKM 2017], avoid pending updates (ie.. Apple App store updates, Microsoft Updates, antivirus definitions, et alia).
+* During the streaming, do not enable background operations (defragmentation, antivirus scanning, stream online music [besides the ISKM 2017], avoid pending updates (ie.. Apple App store updates, Microsoft Updates, Linux dependencies alerts, antivirus definitions, et alia).
 * Shut down instant messaging, email, system notifications (ie: from operating system, browser itself, social networks, etc.).
 * Disable any energy saver activity of your operating system during your streaming (ie: stop hard disk, screen goes black, operating system goes freeze...)
 * Disable (temporary) your firewall during the streaming event.
@@ -40,7 +40,7 @@
 * Essentially, during your remote presentation must be open **only** your browser, your webcam and your microphone.
 * Transmit your presentation in a peaceful room. Disable any incoming sound that can comes inside your room (ie: telephone rings, alarms, baby calls, alarm rings, watch alarms, etc.)
 * Verify your surround light conditions. Everybody want to see your work.
-* Avoid wear horizontal & vertical lines in your clothing. Reason: Prevent the "Moire effect". _Vide_: [https://www.youtube.com/watch?v=61NqgAfAt9Y](https://www.youtube.com/watch?v=61NqgAfAt9Y)
+* Avoid wear horizontal & vertical lines in your clothing. _Reason:_ Prevent the "Moire effect". _Vide_: [https://www.youtube.com/watch?v=61NqgAfAt9Y](https://www.youtube.com/watch?v=61NqgAfAt9Y)
 * Avoid fluo colors.
 
 ###Assistants (via streaming)
@@ -50,12 +50,12 @@
 * Verify that you are out of malware & virus.
 * Test your audio card / webcam.
 * Defragment your hard disk.
-* Verify that your hard disk (where your browser is installed) have -at least- 10 GB of free space.
+* Verify that your hard disk (where your browser is installed) have -at least- 10 GB of free space available.
 * Between orators, **clear** your browser's cache.
 * Avoid open a `"New Private Window"` (Mozilla Firefox) / `"New Incognito windows"` (Google Chrome) to access the streaming event. You will be kicked up.
 * Avoid login or use a VPN connection along the streaming event. You will be kicked up.
 * Avoid login through a proxy server (or any mask tool that obfuscate your IP). You will be kicked up.
-* During the streaming, do not enable background operations (defragmentation, antivirus scanning, stream online music [besides the ISKM 2017 event], avoid pending updates (ie.. App Store updates, Microsoft Updates, antivirus definitions, _et alia_).
+* During the streaming, do not enable background operations (defragmentation, antivirus scanning, stream online music [besides the ISKM 2017 event], avoid pending updates (ie.. Apple App Store updates, Microsoft Updates, Linux dependencies alerts, antivirus definitions, _et alia_).
 * Disable (temporary) screen sharing during the streaming event.
 * Disable (temporary) any disk drive encryption schema:
      - FileVault (MacOSX)
