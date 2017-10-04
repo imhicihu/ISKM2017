@@ -15,7 +15,7 @@
 * Minimum screen size: 800 x 600 pixels. (VERIFY THIS)
 * Defragment your hard disk (where the Mozilla Firefox is installed).
 * Verify that your hard disk (where your browser is installed) got -at least- 10 GB of free space available.
-* During the streaming, do not enable background operations (defragmentation, antivirus scanning, stream online music [besides the ISKM 2017], avoid pending updates (ie.: Apple App store updates, Microsoft Updates, Linux dependencies alerts, antivirus definitions, _et alia_).
+* During the streaming, do not enable background operations (ie.: defragmentation, antivirus scanning, stream online music [besides the ISKM 2017], avoid pending updates (ie.: Apple App store updates, Microsoft Updates, Linux dependencies alerts, antivirus definitions, _et alia_).
 * Shut down instant messaging, email, system notifications (ie.: from operating system, browser itself, social networks, etc.).
 * Disable (temporary) any energy saver schema from your operating system during your streaming (ie.: stop hard disk, screen goes black, operating system goes freeze...)
 * Disable (temporary) your firewall during the streaming event.
@@ -29,11 +29,11 @@
 * Disable screensaver.
 * Update your Adobe Flash player to the latest version.
 * Earlier versions of Adobe Connect than version 9 must be uninstalled.
-* Install Adobe Connect Add-in from https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html.
+* Install Adobe Connect Add-in from [https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html](https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html).
 * Verify that you are running the latest version of Mozilla Firefox (preferred browser).
 * Run Mozilla Firefox with the essential add-ins (a.k.a: [Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)) as possible (the less, the better).
 * Launch your Mozilla Firefox as `Run as Administrator`
-* Clear your `Mozilla's Cached Web Content` before your streaming.
+* Clear your [Mozilla's Cached Web Content](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) before your streaming. Or simply install [Clear cache button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/) extension.
 * Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
 * Go to: [https://salvador.adobeconnect.com/](https:https://salvador.adobeconnect.com/). Login with the supplied username and password. (REVIEW THIS  STEP)
 * Those remote orators must engage in not change their technical settings (hardware and software) from the pre-rehearsal session to the day of the event. Custom profiles (audio-video) will be created prior to the streaming event by us.
@@ -68,7 +68,7 @@
 * Verify that you are running the latest version of Mozilla Firefox (preferred browser).
 * Run Mozilla Firefox with the essential add-ins (a.k.a: [Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)) as possible (the less, the better).
 * Launch your Mozilla Firefox as `Run as Administrator`.
-* **Clear** your Mozilla's Cached Web Content **before** the streaming event and **between** orators.
+* **Clear** your [Mozilla's Cached Web Content](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) **before** the streaming event and **between** orators. A simple way: install [Clear cache button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/) extension.
 * Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
 * Go to: [https://salvador.adobeconnect.com/redroom](https://salvador.adobeconnect.com/redroom). Log in with the supplied username and password. (REVIEW THIS STEP)
 * Essentially, during your remote presentation must be open only your browser, your webcam and your microphone.
