@@ -3,6 +3,7 @@
 ###Remote Speakers
 * Verify you are connected to a power electrical supply.
 * Fully charge your notebook's battery.
+* Verify your date/time in your computer is correct.
 * Verify your time-zone. ISKM2017's official hour is `UTC-03:00`.
 * Verify that you are out of malware & virus.
 * Test your audio card / webcam.
@@ -46,6 +47,7 @@
 ###Attendees (via streaming)
 * Verify you are connected to a power electrical supply.
 * Fully charge your notebook's battery.
+* Verify your date/time in your computer is correct.
 * Verify your time-zone. ISKM2017's official hour is UTC-03:00.
 * Verify that you are out of malware & virus.
 * Test your audio card / webcam.
@@ -87,6 +89,7 @@
 * Insurance policy of the assistants? VERIFY THIS
 * Security policy inside/outside rooms? VERIFY THIS
 * Medical insurance? VERIFY THIS
+* Smoking room?
 * Press Kit to send to CONICET?
 * Coffee breaks: some assistant may be celiac...
 * Historical weather data of Buenos Aires on november can be found here: [Precipitaciones mensuales y dias con precipitaciones. Ciudad de Buenos Aires. Enero 1991/diciembre 2017](https://www.estadisticaciudad.gob.ar/eyc/?p=64793) or [Weather Channel Historical data](https://weather.com/weather/monthly/l/ARBA0009:1:AR)
