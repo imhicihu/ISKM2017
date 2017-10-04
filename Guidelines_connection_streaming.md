@@ -72,11 +72,13 @@
 * Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
 * Go to: [https://salvador.adobeconnect.com/redroom](https://salvador.adobeconnect.com/redroom). Log in with the supplied username and password. (REVIEW THIS STEP)
 * Essentially, during your remote presentation must be open only your browser, your webcam and your microphone.
+* The streaming event can not be recorded in any known electronic form.
 
 ###Room assistant
 * Fully charge your mobile or notebook's battery. We won't supply electricity during the event. (VERIFY THIS)
 * No food. No drinks on both rooms.
 * Photos without flash can be taken along the meeting.
+* The streaming event can not be recorded in any known electronic form.
 
 ##Miscellaneous
 * _Common sense rules everything._
@@ -97,3 +99,4 @@
 * Any video must be sent separately via Organizer's Committee email or WeTransfer.com to avoid digital corruption on the `.ppt` file. (VERIFY THIS)
 * Verify that your video can be seen by the media player `VLC` (https://www.videolan.org/vlc/). If `positive`, you are out-of-trouble.
 * Official graphical data will be online soon.
+* Worst technical scenario as possible: installation of TeamViewer or Microsoft Remote Control or Chrome Remote Desktop to fix remotely the orator's computer.
