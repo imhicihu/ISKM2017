@@ -82,6 +82,7 @@
 
 ##Miscellaneous
 * _Common sense rules everything._
+* Courtesy rules? 
 * Evacuation plans (maps)?? VERIFY THIS
 * Insurance policy of the assistants? VERIFY THIS
 * Security policy inside/outside rooms? VERIFY THIS
