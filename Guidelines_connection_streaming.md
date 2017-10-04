@@ -1,6 +1,6 @@
 #Discriminated by human actions / hardware-software side
 ##Good Practices (proposal)
-###Orator
+###Remote Orators
 * Verify you are connected to a power electrical supply.
 * Fully charge your notebook's battery.
 * Verify your time-zone. ISKM2017's official hour is UTC-03:00.
@@ -16,7 +16,7 @@
 * Defragment your hard disk (where the Mozilla Firefox is installed).
 * Verify that your hard disk (where your browser is installed) got -at least- 10 GB of free space.
 * During the streaming, do not enable background operations (defragmentation, antivirus scanning, stream online music [besides the ISKM 2017], avoid pending updates (ie.. Apple App store updates, Microsoft Updates, antivirus definitions, et alia).
-* Shut down instant messaging, email, system notifications (ie: from operating system, browser itself, etc.).
+* Shut down instant messaging, email, system notifications (ie: from operating system, browser itself, social networks, etc.).
 * Disable any energy saver activity during your streaming (ie: stop hard disk, screen goes black, operating system goes freeze...)
 * Disable (temporary) your firewall during the streaming event.
 * Disable (temporary) file & screen sharing during the streaming event.
@@ -41,6 +41,8 @@
 * Essentially, during your remote presentation must be open **only** your browser, your webcam and your microphone.
 * Transmit your presentation in a peaceful room. Disable any incoming sound that can comes inside your room (ie: telephone rings, alarms, baby calls, alarm rings, watch alarms, etc.)
 * Verify your surround light conditions. Everybody want to see your work.
+* Avoid wear horizontal & vertical lines in your clothing. Reason: Prevent the "Moire effect". _Vide_: [https://www.youtube.com/watch?v=61NqgAfAt9Y](https://www.youtube.com/watch?v=61NqgAfAt9Y)
+* Avoid fluo colors.
 
 ###Assistants (via streaming)
 * Verify you are connected to a power electrical supply.
@@ -83,7 +85,7 @@
 * Insurance policy of the assistants? VERIFY THIS
 * Security policy inside/outside rooms? VERIFY THIS
 * Medical insurance? VERIFY THIS
-* Press Kit? to send to CONICET?
+* Press Kit to send to CONICET?
 * Historical weather data of Buenos Aires on november can be found here: [Precipitaciones mensuales y dias con precipitaciones. Ciudad de Buenos Aires. Enero 1991/diciembre 2017](https://www.estadisticaciudad.gob.ar/eyc/?p=64793) or [Weather Channel Historical data](https://weather.com/weather/monthly/l/ARBA0009:1:AR)
 * [Downloadable Apps](https://turismo.buenosaires.gob.ar/en/article/downloadable-apps) related with Buenos Aires
 * Electric current in Argentina is AC 220-380 volts. Electric plug configurations are 2 or 3 flat pins with the top two slightly angled. Travellers are therefore advised to carry adapters and/or transformers. Check this page: [Plugs of the world](http://www.iec.ch/worldplugs/list_bylocation.htm)
