@@ -12,7 +12,7 @@
 * Avoid VOIP connections during the streaming.
 * Connect through network cable to the fastest connection as possible.
 * Test your bandwidth: ie.: [http://beta.speedtest.net/#](http://beta.speedtest.net/#)
-* Minimun screen size: 800 x 600 pixels. (VERIFY THIS)
+* Minimum screen size: 800 x 600 pixels. (VERIFY THIS)
 * Defragment your hard disk (where the Mozilla Firefox is installed).
 * Verify that your hard disk (where your browser is installed) got -at least- 10 GB of free space available.
 * During the streaming, do not enable background operations (defragmentation, antivirus scanning, stream online music [besides the ISKM 2017], avoid pending updates (ie.. Apple App store updates, Microsoft Updates, Linux dependencies alerts, antivirus definitions, et alia).
@@ -87,6 +87,7 @@
 * Security policy inside/outside rooms? VERIFY THIS
 * Medical insurance? VERIFY THIS
 * Press Kit to send to CONICET?
+* Coffee breaks: some assistant may be celiac...
 * Historical weather data of Buenos Aires on november can be found here: [Precipitaciones mensuales y dias con precipitaciones. Ciudad de Buenos Aires. Enero 1991/diciembre 2017](https://www.estadisticaciudad.gob.ar/eyc/?p=64793) or [Weather Channel Historical data](https://weather.com/weather/monthly/l/ARBA0009:1:AR)
 * [Downloadable Apps](https://turismo.buenosaires.gob.ar/en/article/downloadable-apps) related with Buenos Aires
 * Electric current in Argentina is AC 220-380 volts. Electric plug configurations are 2 or 3 flat pins with the top two slightly angled. Travellers are therefore advised to carry adapters and/or transformers. Check this page: [Plugs of the world](http://www.iec.ch/worldplugs/list_bylocation.htm)
