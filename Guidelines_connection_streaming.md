@@ -1,6 +1,6 @@
 #Discriminated by human actions / hardware-software side
 ##Good Practices (proposal)
-###Remote Orators
+###Remote Speakers
 * Verify you are connected to a power electrical supply.
 * Fully charge your notebook's battery.
 * Verify your time-zone. ISKM2017's official hour is `UTC-03:00`.
@@ -36,14 +36,14 @@
 * Clear your [Mozilla's Cached Web Content](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) before your streaming. Or simply install [Clear cache button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/) extension.
 * Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
 * Go to: [https://salvador.adobeconnect.com/](https:https://salvador.adobeconnect.com/). Login with the supplied username and password. (REVIEW THIS  STEP)
-* Those remote orators must engage in not change their technical settings (hardware and software) from the pre-rehearsal session to the day of the event. Custom profiles (audio-video) will be created prior to the streaming event by us.
+* Those remote speakers must engage in not change their technical settings (hardware and software) from the pre-rehearsal session to the day of the event. Custom profiles (audio-video) will be created prior to the streaming event by us.
 * Essentially, during your remote presentation must be open **only** your browser, your webcam and your microphone.
 * Transmit your presentation in a peaceful room. Disable any incoming sound that can comes inside your room (ie: telephone rings, alarms, baby calls, alarm rings, watch alarms, etc.)
 * Verify your surround light conditions. Everybody want to see your work.
 * Avoid wear horizontal & vertical lines in your clothing. _Reason:_ Prevent the "Moire effect". _Vide_: [https://www.youtube.com/watch?v=61NqgAfAt9Y](https://www.youtube.com/watch?v=61NqgAfAt9Y)
 * Avoid fluo colors.
 
-###Assistants (via streaming)
+###Attendees (via streaming)
 * Verify you are connected to a power electrical supply.
 * Fully charge your notebook's battery.
 * Verify your time-zone. ISKM2017's official hour is UTC-03:00.
@@ -51,7 +51,7 @@
 * Test your audio card / webcam.
 * Defragment your hard disk.
 * Verify that your hard disk (where your browser is installed) have -at least- 10 GB of free space available.
-* Between orators/sessions, **clear your browser's cache**. 
+* Between speakers/sessions, **clear your browser's cache**. 
 * Avoid open a `"New Private Window"` (Mozilla Firefox) / `"New Incognito windows"` (Google Chrome) to access the streaming event. You will be kicked up.
 * Avoid login or use a VPN connection along the streaming event. _You will be kicked up_.
 * Avoid login through a proxy server (or any mask tool that obfuscate your IP). _You will be kicked up_.
@@ -68,13 +68,13 @@
 * Verify that you are running the latest version of Mozilla Firefox (preferred browser).
 * Run Mozilla Firefox with the essential add-ins (a.k.a: [Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)) as possible (the less, the better).
 * Launch your Mozilla Firefox as `Run as Administrator`.
-* **Clear** your [Mozilla's Cached Web Content](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) **before** the streaming event and **between** orators. A simple way: install [Clear cache button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/) extension.
+* **Clear** your [Mozilla's Cached Web Content](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) **before** the streaming event and **between** speakers. A simple way: install [Clear cache button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/) extension.
 * Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
 * Go to: [https://salvador.adobeconnect.com/redroom](https://salvador.adobeconnect.com/redroom). Log in with the supplied username and password. (REVIEW THIS STEP)
 * Essentially, during your remote presentation must be open only your browser, your webcam and your microphone.
 * The streaming event can not be recorded in any known electronic form.
 
-###Room assistant
+###Room attendees
 * Fully charge your mobile or notebook's battery. We won't supply electricity during the event. (VERIFY THIS)
 * No food. No drinks on both rooms.
 * Photos without flash can be taken along the meeting.
