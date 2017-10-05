@@ -9,7 +9,7 @@
 * Test your audio card / webcam.
 * Avoid use a VPN connection for streaming.
 * Avoid connect through a proxy server.
-* Avoid using a wireless connections for streaming.
+* Avoid using wireless connections for streaming.
 * Avoid VOIP connections during the streaming.
 * Connect through network cable to the fastest connection as possible.
 * Test your bandwidth: ie.: [http://beta.speedtest.net/#](http://beta.speedtest.net/#)
@@ -54,10 +54,10 @@
 * Defragment your hard disk.
 * Verify that your hard disk (where your browser is installed) have -at least- 10 GB of free space available.
 * Between speakers/sessions, **clear your browser's cache**. 
-* Avoid open a `"New Private Window"` (Mozilla Firefox) / `"New Incognito windows"` (Google Chrome) to access the streaming event. You will be kicked up.
+* Avoid open a `"New Private Window"` (Mozilla Firefox) / `"New Incognito windows"` (Google Chrome) to access the streaming event. _You will be kicked up_.
 * Avoid login or use a VPN connection along the streaming event. _You will be kicked up_.
 * Avoid login through a proxy server (or any mask tool that obfuscate your IP). _You will be kicked up_.
-* During the streaming, do not enable background operations (defragmentation, antivirus scanning, stream online music [besides the ISKM 2017 event], avoid pending updates (ie.. Apple App Store updates, Microsoft Updates, Linux dependencies alerts, antivirus definitions, _et alia_).
+* During the streaming, do not enable background operations (defragmentation, antivirus scanning, stream online music [besides the ISKM 2017 event], avoid pending updates (ie.: Apple App Store updates, Microsoft Updates, Linux dependencies alerts, antivirus definitions, _et alia_).
 * Disable (temporary) screen sharing during the streaming event.
 * Disable (temporary) any disk drive encryption schema:
      - FileVault (MacOSX)
