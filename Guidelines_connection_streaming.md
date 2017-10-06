@@ -14,7 +14,7 @@
 * Connect through network cable to the fastest connection as possible.
 * Test your bandwidth: ie.: [http://beta.speedtest.net/#](http://beta.speedtest.net/#)
 * Minimum screen size: 800 x 600 pixels. (VERIFY THIS)
-* Defragment your hard disk (where the Mozilla Firefox is installed).
+* Defragment your hard disk (where Mozilla Firefox is installed).
 * Verify that your hard disk (where your browser is installed) got -at least- 10 GB of free space available.
 * During the streaming, do not enable background operations (ie.: defragmentation, antivirus scanning, stream online music [besides the ISKM 2017], avoid pending updates (ie.: Apple App store updates, Microsoft Updates, Linux dependencies alerts, antivirus definitions, _et alia_).
 * Shut down instant messaging, email, system notifications (ie.: from operating system, browser itself, social networks, etc.).
@@ -26,14 +26,14 @@
 	- Bitlocker (Windows)
 	- LUKS (Linux)
 * Disable (temporary) remote connections with other computers.
-* Disable (temporary) Airplay (on mac computers).
+* Disable (temporary) Airplay (on Apple computers).
 * Disable screensaver.
-* Update your Adobe Flash player to the latest version.
+* Update your Adobe Flash player to the latest version. (VERIFY THIS ON LINUX)
 * Earlier versions of Adobe Connect than version 9 must be uninstalled.
 * Install Adobe Connect Add-in from [https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html](https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html).
 * Verify that you are running the latest version of Mozilla Firefox (preferred browser).
 * Run Mozilla Firefox with the essential add-ins (a.k.a: [Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)) as possible (the less, the better).
-* Launch your Mozilla Firefox as `Run as Administrator`
+* Launch your Mozilla Firefox as `Run as Administrator` if your operating system is Microsoft Windows®.
 * Clear your [Mozilla's Cached Web Content](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) before your streaming. Or simply install [Clear cache button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/) extension.
 * Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
 * Go to: [https://salvador.adobeconnect.com/](https:https://salvador.adobeconnect.com/). Login with the supplied username and password. (REVIEW THIS  STEP)
@@ -69,7 +69,7 @@
 * Install Adobe Connect Add-in from [https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html](https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html).
 * Verify that you are running the latest version of Mozilla Firefox (preferred browser).
 * Run Mozilla Firefox with the essential add-ins (a.k.a: [Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)) as possible (the less, the better).
-* Launch your Mozilla Firefox as `Run as Administrator`.
+* Launch your Mozilla Firefox as `Run as Administrator`if your operating system is Microsoft Windows®.
 * **Clear** your [Mozilla's Cached Web Content](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) **before** the streaming event and **between** speakers. A simple way: install [Clear cache button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/) extension.
 * Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
 * Go to: [https://salvador.adobeconnect.com/redroom](https://salvador.adobeconnect.com/redroom). Log in with the supplied username and password. (REVIEW THIS STEP)
@@ -79,7 +79,7 @@
 ###Room attendees
 * Fully charge your mobile or notebook's battery. We won't supply electricity during the event. (VERIFY THIS)
 * No food. No drinks on both rooms.
-* Photos without flash can be taken along the meeting.
+* Photos without flash can be taken along the meeting. (VERIFY THIS)
 * The streaming event can not be recorded in any known electronic form.
 
 ##Miscellaneous
@@ -87,9 +87,9 @@
 * Courtesy rules? 
 * Evacuation plans (maps)?? VERIFY THIS
 * Insurance policy of the assistants? VERIFY THIS
-* Security policy inside/outside rooms? VERIFY THIS
+* Security inside/outside rooms? VERIFY THIS
 * Medical insurance? VERIFY THIS
-* Smoking room?
+* Smoking room? 
 * Press Kit to send to CONICET?
 * Coffee breaks: some assistant may be celiac...
 * Historical weather data of Buenos Aires on november can be found here: [Precipitaciones mensuales y dias con precipitaciones. Ciudad de Buenos Aires. Enero 1991/diciembre 2017](https://www.estadisticaciudad.gob.ar/eyc/?p=64793) or [Weather Channel Historical data](https://weather.com/weather/monthly/l/ARBA0009:1:AR)
@@ -99,7 +99,7 @@
 ###Technical data
 * Official presentation format: PPT (Microsoft PowerPoint).
 * PowerPoint presentation must **not** be password protected.
-* Any image, video, music, typography embedded in the presentation (`.ppt`) shouldn't violate any copyright.
+* Any image, video, music, typography embedded in the presentation (`.ppt`) should not infringe any copyright.
 * Any typography with non-western typeface (i.e. chinese, japanese, vietnamese) should be sent separately: Not all operating systems render graphica objects in the same way.
 * Any video must be sent separately via Organizer's Committee email or WeTransfer.com to avoid digital corruption on the `.ppt` file. (VERIFY THIS)
 * Verify that your video can be seen by the media player `VLC` (https://www.videolan.org/vlc/). If `positive`, you are out-of-trouble.
