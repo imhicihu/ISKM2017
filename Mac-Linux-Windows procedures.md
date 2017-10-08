@@ -1,6 +1,18 @@
+## Adobe Flash Player issues - Troubleshooting
+
 ### Mac OSX
+* Verify that your Mozilla Firefox is updated.
+* Verify that your Adobe Flash Player® is updated.
+* Run Mozilla Firefox.
+* Choose `Firefox` > `Tools` > `Add-ons`.
+* Select `Plugins`.
+* In the list of Add-ons, look for `Shockwave Flash` (another name for `Flash Player`) and check the _status_ that appears to the right of the plug-in name.
+* Select `Always Activate`.
+* Close the dialog box.
+* Restart your Mozilla Firefox.
+
 ### LINUX
-* Linux is not supporting Adobe Flash Player in its store anymore. Therefore you have to do it manually.
+* Linux is not supporting Adobe Flash Player® in its store anymore. Therefore you have to do it manually.
 * Open this link: `http://get.adobe.com/flashplayer/`. It will automatically suggest you a version according to your desktop environment-
 * Select `.tar.gz` for Linux option
 * Now click on `Download` button (Select the downloading path as Downloads in your system for easy access).
@@ -13,8 +25,18 @@
 * `sudo mv libflashplayer.so \/usr/lib/firefox-addons/plugins` then press Enter
 * Now close your Mozilla Firefox and Terminal
 * Open Mozilla Firefox. Verify on this link: `http://get.adobe.com/flashplayer/about/` your Adobe Flash Player's version and correct installation.
+
 ### Windows
+* Verify that your Mozilla Firefox is updated.
+* Verify that your Adobe Flash Player® is updated.
+* Run Mozilla Firefox.
+* Choose `Firefox` > `Tools` > `Add-ons`.
+* Select `Plugins`.
+* In the list of Add-ons, look for `Shockwave Flash` (another name for `Flash Player`) and check the _status_ that appears to the right of the plug-in name.
+* Select `Always Activate`.
+* Close the dialog box.
+* Restart your Mozilla Firefox.
 
-
-Legal:
-All trademarks are the property of their respective owners.
+#### Legal:
+All other trademarks are the property of their respective owners.
+Adobe, Flash, and Flash Player are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.
