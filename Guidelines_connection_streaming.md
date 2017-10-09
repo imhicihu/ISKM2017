@@ -110,3 +110,6 @@
 * Verify that your video can be seen by the media player `VLC` (https://www.videolan.org/vlc/). If `positive`, you are out-of-trouble.
 * Official graphical data will be online soon.
 * Worst technical scenario as possible: installation of TeamViewer or Microsoft Remote Control or Chrome Remote Desktop to fix remotely the orator's computer.
+
+###Troubleshooting 
+* _Vide_ `Mac-Linux-Windows procedures.md`: checklist and solutions related to Adobe Flash Player on different operating systems.
