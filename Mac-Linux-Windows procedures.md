@@ -1,17 +1,18 @@
 ## Adobe Flash Player issues - Troubleshooting
 
-### Mac OSX operating system (*)
-* Verify that your Mozilla Firefox is updated.
+### Mac OSX operating system
+* Verify that your Mozilla Firefox® is updated.
 * Verify that your Adobe Flash Player® is updated.
-* Run Mozilla Firefox.
+* Run Mozilla Firefox®.
 * Choose `Firefox` > `Tools` > `Add-ons`.
 * Select `Plugins`.
 * In the list of Add-ons, look for `Shockwave Flash` (another name for `Flash Player`) and check the _status_ that appears to the right of the plug-in name.
 * Select `Always Activate`.
 * Close the dialog box.
-* Restart your Mozilla Firefox.
+* Restart your Mozilla Firefox®.
+* Tested on: Snow Leopard, Lion, Mountain Lion, Mavericks, El Capitan
 
-### Linux operating system (**)
+### Linux operating system
 * Linux is not supporting Adobe Flash Player® in its store anymore. Therefore you have to install it manually.
 * Open this link: `http://get.adobe.com/flashplayer/`. It will automatically suggest you a version according to your operating system ecosystem.
 * Select `.tar.gz for Linux` option.
@@ -23,25 +24,24 @@
 * `cd Downloads` (this is the folder where you have downloaded the `.tar.gz`) then press `Enter` key.
 * `cd flash_player_npapi_linux.x86_64` (Your file name may be different, just copy the name of file and paste it in Terminal)
 * `sudo mv libflashplayer.so \/usr/lib/firefox-addons/plugins` then press `Enter` key.
-* Now close your Mozilla Firefox and Terminal.
-* Open Mozilla Firefox. 
+* Now close your Mozilla Firefox® and Terminal.
+* Open Mozilla Firefox®. 
 * Visit this link: `http://get.adobe.com/flashplayer/about/`: it will show you your Adobe Flash Player®'s version and suitable installation.
+* Tested on: Lubuntu 16.04.3 (64 bits)
 
 ### Windows operating system (***)
-* Verify that your Mozilla Firefox is updated.
+* Verify that your Mozilla Firefox® is updated.
 * Verify that your Adobe Flash Player® is updated.
-* Run Mozilla Firefox.
+* Run Mozilla Firefox®.
 * Choose `Firefox` > `Tools` > `Add-ons`.
 * Select `Plugins`.
 * In the list of Add-ons, look for `Shockwave Flash` (another name for `Flash Player`) and check the _status_ that appears to the right of the plug-in name.
 * Select `Always Activate`.
 * Close the dialog box.
-* Restart your Mozilla Firefox.
-
-  (*) Tested on: Snow Leopard, Lion, Mountain Lion, Mavericks, ElCapitan, 
-  (**) Tested on: Lubuntu 16.04.3 (64 bits)
-  (***) Tested on: Windows 7, 8, 10 (32 & 64 bits)
-  
+* Restart your Mozilla Firefox®.
+* Tested on: Windows® 7, 8, 10 (32 & 64 bits)
+ 
 #### Legal:
 * All other trademarks are the property of their respective owners.
 * Adobe, Flash, and Flash Player are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.
+* Windows is a registered trademark of Microsoft Corporation in the United States and/or other countries.
