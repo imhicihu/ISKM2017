@@ -1,6 +1,6 @@
 ## Adobe Flash Player issues - Troubleshooting
 
-### Mac OSX
+### Mac OSX operating system (*)
 * Verify that your Mozilla Firefox is updated.
 * Verify that your Adobe Flash Player® is updated.
 * Run Mozilla Firefox.
@@ -11,7 +11,7 @@
 * Close the dialog box.
 * Restart your Mozilla Firefox.
 
-### Linux
+### Linux operating system (**)
 * Linux is not supporting Adobe Flash Player® in its store anymore. Therefore you have to install it manually.
 * Open this link: `http://get.adobe.com/flashplayer/`. It will automatically suggest you a version according to your operating system ecosystem.
 * Select `.tar.gz for Linux` option.
@@ -27,7 +27,7 @@
 * Open Mozilla Firefox. 
 * Visit this link: `http://get.adobe.com/flashplayer/about/`: it will show you your Adobe Flash Player®'s version and suitable installation.
 
-### Windows
+### Windows operating system (***)
 * Verify that your Mozilla Firefox is updated.
 * Verify that your Adobe Flash Player® is updated.
 * Run Mozilla Firefox.
@@ -38,6 +38,9 @@
 * Close the dialog box.
 * Restart your Mozilla Firefox.
 
+(*) Tested on: Snow Leopard, Lion, Mountain Lion, Mavericks, ElCapitan, 
+(**) Tested on: Lubuntu 16.04.3 (64 bits)
+(***) Tested on: Windows 7, 8, 10 (32 & 64 bits)
 #### Legal:
-All other trademarks are the property of their respective owners.
-Adobe, Flash, and Flash Player are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.
+* All other trademarks are the property of their respective owners.
+* Adobe, Flash, and Flash Player are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.
