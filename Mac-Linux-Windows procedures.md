@@ -38,9 +38,10 @@
 * Close the dialog box.
 * Restart your Mozilla Firefox.
 
-(*) Tested on: Snow Leopard, Lion, Mountain Lion, Mavericks, ElCapitan, 
-(**) Tested on: Lubuntu 16.04.3 (64 bits)
-(***) Tested on: Windows 7, 8, 10 (32 & 64 bits)
+  (*) Tested on: Snow Leopard, Lion, Mountain Lion, Mavericks, ElCapitan, 
+  (**) Tested on: Lubuntu 16.04.3 (64 bits)
+  (***) Tested on: Windows 7, 8, 10 (32 & 64 bits)
+  
 #### Legal:
 * All other trademarks are the property of their respective owners.
 * Adobe, Flash, and Flash Player are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.
