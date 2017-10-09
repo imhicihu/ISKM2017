@@ -18,9 +18,9 @@
 * Now click on `Download` button. _Tip:_ select the downloading path the usual `Downloads` folder for easy access.
 * Now select the downloaded file, right click on it and select `Extract Here` option.
 * Open Terminal (`CTRL+ALT+T`) and write the following commands one by one:
-* `cd ../` ┘ then press `Enter` key.
-* `cd name-of-your-pc` ┘ then press `Enter` key.
-* `cd Downloads` (this is the folder where you have downloaded the `.tar.gz`) ┘ (then press `Enter` key)
+* `cd ../` then press `Enter` key.
+* `cd name-of-your-pc` then press `Enter` key.
+* `cd Downloads` (this is the folder where you have downloaded the `.tar.gz`) then press `Enter` key.
 * `cd flash_player_npapi_linux.x86_64` (Your file name may be different, just copy the name of file and paste it in Terminal)
 * `sudo mv libflashplayer.so \/usr/lib/firefox-addons/plugins` then press `Enter` key.
 * Now close your Mozilla Firefox and Terminal.
