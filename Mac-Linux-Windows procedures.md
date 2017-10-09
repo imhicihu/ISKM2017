@@ -1,6 +1,7 @@
 ## Adobe Flash Player issues - Troubleshooting
 
 ### Mac OSX operating system
+* Tested on: Snow Leopard (version 10.6), Lion (version 10.7), Mountain Lion (version 10.8), Mavericks (version 10.9), El Capitan (version 10.11).
 * Verify that your Mozilla Firefox® is updated.
 * Verify that your Adobe Flash Player® is updated.
 * Run Mozilla Firefox®.
@@ -10,9 +11,10 @@
 * Select `Always Activate`.
 * Close the dialog box.
 * Restart your Mozilla Firefox®.
-* Tested on: Snow Leopard, Lion, Mountain Lion, Mavericks, El Capitan
+* Run the official [Adobe Connect test page](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
 
 ### Linux operating system
+* Tested on: Lubuntu 16.04.3 (64 bits)
 * Linux is not supporting Adobe Flash Player® in its store anymore. Therefore you have to install it manually.
 * Open this link: `http://get.adobe.com/flashplayer/`. It will automatically suggest you a version according to your operating system ecosystem.
 * Select `.tar.gz for Linux` option.
@@ -27,21 +29,23 @@
 * Now close your Mozilla Firefox® and Terminal.
 * Open Mozilla Firefox®. 
 * Visit this link: `http://get.adobe.com/flashplayer/about/`: it will show you your Adobe Flash Player®'s version and suitable installation.
-* Tested on: Lubuntu 16.04.3 (64 bits)
+* Run the official [Adobe Connect test page](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
 
-### Windows operating system (***)
+### Windows operating system
+* Tested on: Microsoft Windows® 7, 8, 10 (32 & 64 bits)
 * Verify that your Mozilla Firefox® is updated.
 * Verify that your Adobe Flash Player® is updated.
 * Run Mozilla Firefox®.
 * Choose `Firefox` > `Tools` > `Add-ons`.
 * Select `Plugins`.
-* In the list of Add-ons, look for `Shockwave Flash` (another name for `Flash Player`) and check the _status_ that appears to the right of the plug-in name.
+* In the list of _Add-ons_, look for `Shockwave Flash` (another name for `Flash Player`) and check the _status_ that appears to the right of the plug-in name.
 * Select `Always Activate`.
 * Close the dialog box.
 * Restart your Mozilla Firefox®.
-* Tested on: Windows® 7, 8, 10 (32 & 64 bits)
+* Run the official [Adobe Connect test page](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
  
 #### Legal:
 * All other trademarks are the property of their respective owners.
 * Adobe, Flash, and Flash Player are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.
 * Windows is a registered trademark of Microsoft Corporation in the United States and/or other countries.
+* Lubuntu is a trademark of Canonical.
