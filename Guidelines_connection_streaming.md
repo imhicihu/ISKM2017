@@ -39,7 +39,7 @@
 * Clear your [Mozilla's Cached Web Content](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) before your streaming. Or simply install [Clear cache button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/) extension.
 * Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
 * Go to: [https://salvador.adobeconnect.com/](https:https://salvador.adobeconnect.com/). Login with the supplied username and password. (REVIEW THIS  STEP)
-* Those remote speakers must engage in not change their technical settings (hardware and software) from the pre-rehearsal session to the day of the event. Custom profiles (audio-video) will be created prior to the streaming event by us.
+* Those remote speakers must engage in not change their technical settings (hardware and software) from the pre-rehearsal session to the day of the event. Custom profiles (audio-video) will be created prior to the streaming event by us. (VERIFY THIS)
 * Essentially, during your remote presentation must be open **only** your browser, your webcam and your microphone.
 * Transmit your presentation in a peaceful room. Disable any incoming sound that can comes inside your room (ie: telephone rings, alarms, baby calls, alarm rings, watch alarms, etc.)
 * Verify your surround light conditions. Everybody want to see your work.
