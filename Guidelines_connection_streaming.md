@@ -26,6 +26,8 @@
 	- Bitlocker (Windows)
 	- LUKS (Linux)
 * Disable (temporary) remote connections with other computers.
+* Disable (temporary) any pop-up blocker software.
+* Disable [Mozilla Firefox pop-up blocker](https://support.mozilla.org/en-US/kb/pop-blocker-settings-exceptions-troubleshooting#w_pop-up-blocker-settings).
 * Disable (temporary) Airplay (on Apple computers).
 * Disable screensaver.
 * Update your Adobe Flash player to the latest version. (VERIFY THIS ON LINUX. Check Troubleshooting.md)
@@ -33,7 +35,7 @@
 * Install Adobe Connect Add-in from [https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html](https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html).
 * Verify that you are running the latest version of Mozilla Firefox (preferred browser).
 * Run Mozilla Firefox with the essential add-ins (a.k.a: [Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)) as possible (the less, the better).
-* Launch your Mozilla Firefox as `Run as Administrator` if your operating system is Microsoft Windows®.
+* Launch your Mozilla Firefox as `Run as Administrator` if your operating system is Microsoft Windowsï¿½.
 * Clear your [Mozilla's Cached Web Content](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) before your streaming. Or simply install [Clear cache button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/) extension.
 * Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
 * Go to: [https://salvador.adobeconnect.com/](https:https://salvador.adobeconnect.com/). Login with the supplied username and password. (REVIEW THIS  STEP)
@@ -64,12 +66,14 @@
      - Bitlocker (Windows)
      - LUKS (Linux)
 * Disable (temporary) remote connections with other computers.
+* Disable (temporary) any pop-up blocker software.
+* Disable [Mozilla Firefox pop-up blocker](https://support.mozilla.org/en-US/kb/pop-blocker-settings-exceptions-troubleshooting#w_pop-up-blocker-settings).
 * Update Adobe Flash player to the latest version.
 * Earlier versions of Adobe Connect than version 9 must be uninstalled.
 * Install Adobe Connect Add-in from [https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html](https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html).
 * Verify that you are running the latest version of Mozilla Firefox (preferred browser).
 * Run Mozilla Firefox with the essential add-ins (a.k.a: [Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)) as possible (the less, the better).
-* Launch your Mozilla Firefox as `Run as Administrator`if your operating system is Microsoft Windows®.
+* Launch your Mozilla Firefox as `Run as Administrator`if your operating system is Microsoft Windowsï¿½.
 * **Clear** your [Mozilla's Cached Web Content](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) **before** the streaming event and **between** speakers. A simple way: install [Clear cache button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/) extension.
 * Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
 * Go to: [https://salvador.adobeconnect.com/redroom](https://salvador.adobeconnect.com/redroom). Log in with the supplied username and password. (REVIEW THIS STEP)
