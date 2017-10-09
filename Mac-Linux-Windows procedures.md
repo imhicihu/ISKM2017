@@ -15,7 +15,7 @@
 * Linux is not supporting Adobe Flash Player® in its store anymore. Therefore you have to install it manually.
 * Open this link: `http://get.adobe.com/flashplayer/`. It will automatically suggest you a version according to your operating system ecosystem.
 * Select `.tar.gz for Linux` option.
-* Now click on `Download` button. _Tip:_ select the downloading path the usual `Downloads` folder for easy access.
+* Now click on `Download` button. _Tip:_ select the downloading path (the default `Downloads` folder) for easy access.
 * Now select the downloaded file, right click on it and select `Extract Here` option.
 * Open Terminal (`CTRL+ALT+T`) and write the following commands one by one:
 * `cd ../` then press `Enter` key.
