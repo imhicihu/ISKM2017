@@ -70,16 +70,16 @@
 * Disable [Mozilla Firefox pop-up blocker](https://support.mozilla.org/en-US/kb/pop-blocker-settings-exceptions-troubleshooting#w_pop-up-blocker-settings).
 * Update Adobe Flash player® to the latest version.
 * Earlier versions of Adobe Connect than version 9 must be uninstalled.
-* Install Adobe Connect Add-in from [https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html](https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html). If it warns about installing the Adobe Connect Add-in, install it.
+* Install Adobe Connect Add-in from [https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html](https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html).
 * Verify that you are running the latest version of Mozilla Firefox® (preferred browser).
 * Run Mozilla Firefox with the essential add-ins (a.k.a: [Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)) as possible (the less, the better).
-* Launch your Mozilla Firefox as `Run as Administrator`if your operating system is Microsoft Windows®.
+* Launch your Mozilla Firefox® as `Run as Administrator`if your operating system is Microsoft Windows®.
 * **Clear** your [Mozilla's Cached Web Content](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) **before** the streaming event and **between** speakers. A simple way: install [Clear cache button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/) extension.
-* Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
-* Mobile choice (optional): [Adobe Connect for Ipad & Iphone](https://itunes.apple.com/mx/app/adobe-connect/id430437503?mt=8), [Adobe Connect for Android](https://play.google.com/store/apps/details?id=air.com.adobe.connectpro&hl=en), [Adobe Connect for Blackberry](https://appworld.blackberry.com/webstore/content/36989/?lang=en&countrycode=AR)
+* Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm). If it warns about installing the Adobe Connect Add-in, install it.
+* Mobile device choices: [Adobe Connect for Ipad & Iphone](https://itunes.apple.com/mx/app/adobe-connect/id430437503?mt=8), [Adobe Connect for Android](https://play.google.com/store/apps/details?id=air.com.adobe.connectpro&hl=en), [Adobe Connect for Blackberry](https://appworld.blackberry.com/webstore/content/36989/?lang=en&countrycode=AR)
 * Go to: [https://salvador.adobeconnect.com/redroom](https://salvador.adobeconnect.com/redroom). Log in with the supplied username and password. (REVIEW THIS STEP)
 * Essentially, during your remote presentation must be open **only** your browser, your webcam and your microphone.
-* The streaming event can not be recorded in any known electronic form.
+* The streaming event can not be recorded in any known electronic form up to date.
 
 ###Room attendees
 * Fully charge your mobile or notebook's battery. We won't supply electricity during the event. (VERIFY THIS)
