@@ -46,10 +46,10 @@ Latest versions of Safari, Mozilla Firefox, Google Chrome, and Opera
 
 ### Windows operating system
 * System requeriments:
-     -2.33GHz or faster x86-compatible processor, or Intel® Atom™ 1.6GHz or faster processor for netbooks.
+     - 2.33GHz or faster x86-compatible processor, or Intel® Atom™ 1.6GHz or faster processor for netbooks.
      - Microsoft® Windows® XP SP3 (32-bit), Windows Vista® (32-bit), Windows 7 (32-64 bits), Windows 8.1 ((32-64 bits) and Windows 10 ((32-64 bits).
      - Latest versions of Mozilla Firefox.
-512MB of RAM (1GB of RAM recommended for netbooks); 128MB of graphics memory
+     - 512MB of RAM (1GB of RAM recommended for netbooks); 128MB of graphics memory
 * Tested on: Microsoft Windows® 7, 8, 10 (32 & 64 bits)
 * Verify that your Mozilla Firefox® is updated.
 * Verify that your Adobe Flash Player® is updated.
@@ -61,6 +61,7 @@ Latest versions of Safari, Mozilla Firefox, Google Chrome, and Opera
 * Close the dialog box.
 * Restart your Mozilla Firefox®.
 * Run the official [Adobe Connect test page](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
+* ![adobe_connect_pc.jpg](https://bitbucket.org/repo/bBMkd4/images/1926895762-adobe_connect_pc.jpg)
  
 #### Legal:
 * All other trademarks are the property of their respective owners.
