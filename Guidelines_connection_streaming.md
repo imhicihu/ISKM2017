@@ -14,7 +14,7 @@
 * Connect through network cable to the fastest connection as possible.
 * Test your bandwidth: ie.: [http://beta.speedtest.net/#](http://beta.speedtest.net/#)
 * Minimum screen size: 800 x 600 pixels. (VERIFY THIS)
-* Defragment your hard disk (where Mozilla Firefox is installed).
+* Defragment your hard disk (where Mozilla Firefox® is installed).
 * Verify that your hard disk (where your Mozilla Firefox is installed) got -at least- 10 GB of free space available.
 * During the streaming, do not enable background operations (ie.: defragmentation of your hard disk, antivirus scanning, stream online music [besides the ISKM 2017], avoid pending updates (ie.: by Apple App store, by Microsoft; Linux dependencies alerts, antivirus definitions, _et alia_).
 * Shut down instant messaging, email, system notifications (ie.: from operating system, browser itself, social networks, etc.).
@@ -30,16 +30,16 @@
 * Disable [Mozilla Firefox pop-up blocker](https://support.mozilla.org/en-US/kb/pop-blocker-settings-exceptions-troubleshooting#w_pop-up-blocker-settings).
 * Disable (temporary) Airplay (on Apple computers).
 * Disable screensaver.
-* Update your Adobe Flash player to the latest version. (VERIFY THIS ON LINUX. Check Troubleshooting.md)
-* Earlier versions of Adobe Connect than version 9 must be uninstalled.
+* Update your Adobe Flash player® to the latest version. (Check `Mac-Linux-Windows procedures.md`)
+* Earlier versions of Adobe Connect® than version 9 must be uninstalled.
 * Install Adobe Connect Add-in from [https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html](https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html).
-* Verify that you are running the latest version of Mozilla Firefox (preferred browser).
-* Run Mozilla Firefox with the essential add-ins (a.k.a: [Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)) as possible (the less, the better).
-* Launch your Mozilla Firefox as `Run as Administrator` if your operating system is Microsoft Windowsï¿½.
+* Verify that you are running the latest version of Mozilla Firefox® (preferred browser).
+* Run Mozilla Firefox® with the essential add-ins (a.k.a: [Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)) as possible (the less, the better).
+* Launch your Mozilla Firefox® as `Run as Administrator` if your operating system is Microsoft Windows®.
 * Clear your [Mozilla's Cached Web Content](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) before your streaming. Or simply install [Clear cache button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/) extension.
-* Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
+* Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm). If it warns about installing the Adobe Connect Add-in, install it.
 * Go to: [https://salvador.adobeconnect.com/](https:https://salvador.adobeconnect.com/). Login with the supplied username and password. (REVIEW THIS  STEP)
-* Those remote speakers must engage in not change their technical settings (hardware and software) from the pre-rehearsal session to the day of the event. Custom profiles (audio-video) will be created prior to the streaming event by us. (VERIFY THIS)
+* Those remote speakers must engage in not change their technical settings (hardware and software) from the pre-rehearsal session to the day of the event. Custom profiles (audio-video) will be created prior to the streaming event by us. (**VERIFY THIS**)
 * Essentially, during your remote presentation must be open **only** your browser, your webcam and your microphone.
 * Transmit your presentation in a peaceful room. Disable any incoming sound that can comes inside your room (ie: telephone rings, alarms, baby calls, alarm rings, watch alarms, etc.)
 * Verify your surround light conditions. Everybody want to see your work.
@@ -56,7 +56,7 @@
 * Defragment your hard disk.
 * Verify that your hard disk (where your browser is installed) have -at least- 10 GB of free space available.
 * Between speakers/sessions, **clear your browser's cache**. 
-* Avoid open a `"New Private Window"` (Mozilla Firefox) / `"New Incognito windows"` (Google Chrome) to access the streaming event. _You will be kicked up_.
+* Avoid open a `"New Private Window"` (Mozilla Firefox®) to access the streaming event. _You will be kicked up_.
 * Avoid login or use a VPN connection along the streaming event. _You will be kicked up_.
 * Avoid login through a proxy server (or any mask tool that obfuscate your IP). _You will be kicked up_.
 * During the streaming, do not enable background operations (defragmentation, antivirus scanning, stream online music [besides the ISKM 2017 event], avoid pending updates (ie.: Apple App Store updates, Microsoft Updates, Linux dependencies alerts, antivirus definitions, _et alia_).
@@ -68,24 +68,24 @@
 * Disable (temporary) remote connections with other computers.
 * Disable (temporary) any pop-up blocker software.
 * Disable [Mozilla Firefox pop-up blocker](https://support.mozilla.org/en-US/kb/pop-blocker-settings-exceptions-troubleshooting#w_pop-up-blocker-settings).
-* Update Adobe Flash player to the latest version.
+* Update Adobe Flash player® to the latest version.
 * Earlier versions of Adobe Connect than version 9 must be uninstalled.
-* Install Adobe Connect Add-in from [https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html](https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html).
-* Verify that you are running the latest version of Mozilla Firefox (preferred browser).
+* Install Adobe Connect Add-in from [https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html](https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html). If it warns about installing the Adobe Connect Add-in, install it.
+* Verify that you are running the latest version of Mozilla Firefox® (preferred browser).
 * Run Mozilla Firefox with the essential add-ins (a.k.a: [Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)) as possible (the less, the better).
-* Launch your Mozilla Firefox as `Run as Administrator`if your operating system is Microsoft Windowsï¿½.
+* Launch your Mozilla Firefox as `Run as Administrator`if your operating system is Microsoft Windows®.
 * **Clear** your [Mozilla's Cached Web Content](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) **before** the streaming event and **between** speakers. A simple way: install [Clear cache button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/) extension.
 * Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
 * Mobile choice (optional): [Adobe Connect for Ipad & Iphone](https://itunes.apple.com/mx/app/adobe-connect/id430437503?mt=8), [Adobe Connect for Android](https://play.google.com/store/apps/details?id=air.com.adobe.connectpro&hl=en), [Adobe Connect for Blackberry](https://appworld.blackberry.com/webstore/content/36989/?lang=en&countrycode=AR)
 * Go to: [https://salvador.adobeconnect.com/redroom](https://salvador.adobeconnect.com/redroom). Log in with the supplied username and password. (REVIEW THIS STEP)
-* Essentially, during your remote presentation must be open only your browser, your webcam and your microphone.
+* Essentially, during your remote presentation must be open **only** your browser, your webcam and your microphone.
 * The streaming event can not be recorded in any known electronic form.
 
 ###Room attendees
 * Fully charge your mobile or notebook's battery. We won't supply electricity during the event. (VERIFY THIS)
 * No food. No drinks on both rooms.
 * Photos without flash can be taken along the meeting. (VERIFY THIS)
-* The streaming event can not be recorded in any known electronic form.
+* The streaming event can not be recorded in any known electronic form up to date.
 
 ##Miscellaneous
 * _Common sense rules everything._
@@ -113,3 +113,8 @@
 
 ###Troubleshooting 
 * _Vide_ `Mac-Linux-Windows procedures.md`: checklist and solutions related to Adobe Flash Player on different operating systems.
+
+###Legal
+* All other trademarks are the property of their respective owners.
+* Adobe, Flash, and Flash Player are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.
+* Windows is a registered trademark of Microsoft Corporation in the United States and/or other countries.
