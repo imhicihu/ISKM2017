@@ -74,7 +74,7 @@
 * Verify that you are running the latest version of Mozilla Firefox® (preferred browser).
 * Run Mozilla Firefox with the essential add-ins (a.k.a: [Extensions](https://addons.mozilla.org/en-US/firefox/extensions/)) as possible (the less, the better).
 * Launch your Mozilla Firefox® as `Run as Administrator`if your operating system is Microsoft Windows®.
-* **Clear** your [Mozilla's Cached Web Content](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) **before** the streaming event and **between** speakers. A simple way: install [Clear cache button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/) extension.
+* **Clear** your [Mozilla's Cached Web Content](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) **before** the streaming event and **between** speakers. _Advice:_ install [Clear cache button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/) extension.
 * Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm). If it warns about installing the Adobe Connect Add-in, install it.
 * Mobile device choices: [Adobe Connect for Ipad & Iphone](https://itunes.apple.com/mx/app/adobe-connect/id430437503?mt=8), [Adobe Connect for Android](https://play.google.com/store/apps/details?id=air.com.adobe.connectpro&hl=en), [Adobe Connect for Blackberry](https://appworld.blackberry.com/webstore/content/36989/?lang=en&countrycode=AR). Verify that your device meets the minimum requirements.
 * Go to: [https://salvador.adobeconnect.com/redroom](https://salvador.adobeconnect.com/redroom). Log in with the supplied username and password. (REVIEW THIS STEP)
@@ -85,7 +85,7 @@
 * Fully charge your mobile or notebook's battery. We won't supply electricity during the event. (VERIFY THIS)
 * No food. No drinks on both rooms.
 * Photos without flash can be taken along the meeting. (VERIFY THIS)
-* The streaming event can not be recorded in any known electronic form up to date.
+* The event can not be recorded in any known electronic form up to date.
 
 ##Miscellaneous
 * _Common sense rules everything._
