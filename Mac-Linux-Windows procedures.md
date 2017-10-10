@@ -4,12 +4,9 @@
 * System requeriments:
     - Intel Core™ Duo 1.83GHz or faster processor
     - Mac OS X v10.9, or later
-    - Latest versions of Mozilla Firefox.
+    - Latest versions of Mozilla Firefox®.
     - 512MB of RAM; 128MB of graphics memory
-Mac OS X v10.9, or later
-Latest versions of Safari, Mozilla Firefox, Google Chrome, and Opera
-512MB of RAM; 128MB of graphics memory
-* Tested on: Snow Leopard (version 10.6), Lion (version 10.7), Mountain Lion (version 10.8), Mavericks (version 10.9), El Capitan (version 10.11).
+* Tested on: Mavericks (version 10.9), El Capitan (version 10.11).
 * Verify that your Mozilla Firefox® is updated.
 * Verify that your Adobe Flash Player® is updated.
 * Run Mozilla Firefox®.
