@@ -76,7 +76,7 @@
 * Launch your Mozilla Firefox® as `Run as Administrator`if your operating system is Microsoft Windows®.
 * **Clear** your [Mozilla's Cached Web Content](https://support.mozilla.org/en-US/kb/how-clear-firefox-cache) **before** the streaming event and **between** speakers. A simple way: install [Clear cache button](https://addons.mozilla.org/en-US/firefox/addon/empty-cache-button/) extension.
 * Run the official Adobe Connect test page: [http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm). If it warns about installing the Adobe Connect Add-in, install it.
-* Mobile device choices: [Adobe Connect for Ipad & Iphone](https://itunes.apple.com/mx/app/adobe-connect/id430437503?mt=8), [Adobe Connect for Android](https://play.google.com/store/apps/details?id=air.com.adobe.connectpro&hl=en), [Adobe Connect for Blackberry](https://appworld.blackberry.com/webstore/content/36989/?lang=en&countrycode=AR)
+* Mobile device choices: [Adobe Connect for Ipad & Iphone](https://itunes.apple.com/mx/app/adobe-connect/id430437503?mt=8), [Adobe Connect for Android](https://play.google.com/store/apps/details?id=air.com.adobe.connectpro&hl=en), [Adobe Connect for Blackberry](https://appworld.blackberry.com/webstore/content/36989/?lang=en&countrycode=AR). Verify that your device meets the minimum requirements.
 * Go to: [https://salvador.adobeconnect.com/redroom](https://salvador.adobeconnect.com/redroom). Log in with the supplied username and password. (REVIEW THIS STEP)
 * Essentially, during your remote presentation must be open **only** your browser, your webcam and your microphone.
 * The streaming event can not be recorded in any known electronic form up to date.
