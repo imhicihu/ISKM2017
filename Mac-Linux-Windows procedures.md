@@ -18,6 +18,7 @@
 * Restart your Mozilla Firefox®.
 * Run the official [Adobe Connect test page](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
 * ![adobe-connect-macosx.jpg](https://bitbucket.org/repo/bBMkd4/images/1808365633-adobe-connect-macosx.jpg)
+--------------
 
 ### Linux operating system
 * System requeriments:
@@ -41,6 +42,7 @@
 * Visit this link: `http://get.adobe.com/flashplayer/about/`: it will show you your Adobe Flash Player®'s version and suitable installation.
 * Run the official [Adobe Connect test page](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
 * ![2017-10-04-205229_1128x641_scrot.png](https://bitbucket.org/repo/bBMkd4/images/1580105962-2017-10-04-205229_1128x641_scrot.png)
+--------------
 
 ### Windows operating system
 * System requeriments:
@@ -60,7 +62,8 @@
 * Restart your Mozilla Firefox®.
 * Run the official [Adobe Connect test page](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
 * ![adobe_connect_pc.jpg](https://bitbucket.org/repo/bBMkd4/images/1926895762-adobe_connect_pc.jpg)
- 
+--------------
+
 #### Legal:
 * All other trademarks are the property of their respective owners.
 * Adobe, Flash, and Flash Player are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.
