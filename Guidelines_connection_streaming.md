@@ -88,6 +88,7 @@
 * The event can not be recorded in any known electronic form up to date.
 
 ##Miscellaneous
+* There will be someone with some kind of disability? (VERIFY THIS)
 * _Common sense rules everything._
 * Courtesy rules? 
 * Evacuation plans (maps)?? VERIFY THIS
