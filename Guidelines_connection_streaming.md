@@ -1,9 +1,8 @@
 #Discriminated by human actions / hardware-software side
 ##Good Practices (proposal)
 ###Remote Speakers
-* Verify you are connected to a power electrical supply.
-* Fully charge your notebook's battery.
-* Verify your date/time in your computer is correct.
+* Foresee a possible power outage: fully charge your notebook's battery / own an [uninterruptible Power Supply (UPS)](https://en.wikipedia.org/wiki/Uninterruptible_power_supply).
+* Verify your date and time in your computer is correct.
 * Verify your time-zone. ISKM2017's official hour is `UTC-03:00`.
 * Verify that you are out of malware & virus.
 * Test your audio card / webcam.
@@ -12,10 +11,11 @@
 * Avoid using wireless connections for streaming.
 * Avoid VOIP connections during the streaming.
 * Connect through network cable to the fastest connection as possible.
+* Install Mozilla Firefox® or update it to the latest version as possible.
 * Test your bandwidth: ie.: [http://beta.speedtest.net/#](http://beta.speedtest.net/#)
 * Minimum screen size: 800 x 600 pixels. (VERIFY THIS)
 * Defragment your hard disk (where Mozilla Firefox® is installed).
-* Verify that your hard disk (where your Mozilla Firefox is installed) got -at least- 10 GB of free space available.
+* Verify that your hard disk (where your Mozilla Firefox® is installed) got -at least- 10 GB of free space available.
 * During the streaming, do not enable background operations (ie.: defragmentation of your hard disk, antivirus scanning, stream online music [besides the ISKM 2017], avoid pending updates (ie.: by Apple App store, by Microsoft; Linux dependencies alerts, antivirus definitions, _et alia_).
 * Shut down instant messaging, email, system notifications (ie.: from operating system, browser itself, social networks, etc.).
 * Disable (temporarily) any energy saver schema from your operating system during your streaming (ie.: stop hard disk, screen goes black, operating system goes freeze...)
@@ -29,7 +29,7 @@
 * Disable (temporarily) any pop-up blocker software.
 * Disable [Mozilla Firefox pop-up blocker](https://support.mozilla.org/en-US/kb/pop-blocker-settings-exceptions-troubleshooting#w_pop-up-blocker-settings).
 * Disable (temporarily) Airplay® or Chromecast®.
-* Disable screensaver.
+* Disable any screensaver.
 * Update your Adobe Flash player® to the latest version. (Check `Mac-Linux-Windows procedures.md`)
 * Earlier versions of Adobe Connect® than version 9 must be uninstalled.
 * Install Adobe Connect Add-in from [https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html](https://helpx.adobe.com/adobe-connect/connect-downloads-updates.html).
@@ -47,13 +47,13 @@
 * Avoid fluo colors.
 
 ###Attendees (via streaming)
-* Verify you are connected to a power electrical supply.
-* Fully charge your notebook's battery.
-* Verify your date/time in your computer is correct.
+* Foresee a possible power outage: fully charge your notebook's battery / own an [uninterruptible Power Supply (UPS)](https://en.wikipedia.org/wiki/Uninterruptible_power_supply).
+* Verify your date and time in your computer is correct.
 * Verify your time-zone. ISKM2017's official hour is UTC-03:00.
 * Verify that you are out of malware & virus.
 * Test your audio card / webcam.
 * Defragment your hard disk.
+* Install Mozilla Firefox® or update it to the latest version as possible.
 * Verify that your hard disk (where your browser is installed) have -at least- 10 GB of free space available.
 * Between speakers/sessions, **clear your browser's cache**. 
 * Avoid open a `"New Private Window"` (Mozilla Firefox®) to access the streaming event. _You will be kicked up_.
