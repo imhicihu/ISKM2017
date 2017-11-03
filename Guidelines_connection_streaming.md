@@ -113,7 +113,7 @@
 * Worst technical scenario as possible: installation of TeamViewer or Microsoft Remote Control or Chrome Remote Desktop to fix remotely the orator's computer.
 
 ###Troubleshooting 
-* Vide `[Mac-Linux-Windows procedures.md](https://bitbucket.org/imhicihu/iskm2017/src/d857fd5340e35930223def52b5cc40055741fc71/Mac-Linux-Windows%20procedures.md?at=master): checklist and solutions related to Adobe Flash Player on different operating systems.
+* Vide [Mac-Linux-Windows procedures.md](https://bitbucket.org/imhicihu/iskm2017/src/d857fd5340e35930223def52b5cc40055741fc71/Mac-Linux-Windows%20procedures.md?at=master): checklist and solutions related to Adobe Flash Player on different operating systems.
 
 ###Legal
 * All other trademarks are the property of their respective owners.
