@@ -4,7 +4,7 @@ This document is related to the website of ISKM 2017. The (internal) source and 
 
 ### What is this repository for? ###
 
-* Worflow in the making of website, webapps, mobile content, etc.
+* Worflow in the making of website~~, webapps, mobile content, etc.~~
 * Version 1.3
 
 ### How do I get set up? ###
