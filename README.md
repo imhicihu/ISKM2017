@@ -1,6 +1,6 @@
 # Rationale #
 
-This document is related to the website of ISKM 2017. The (internal) source and commits & the workflow _et alia_ is not shared on behalf of security.
+This document is related to the website of ISKM 2017. The (internal) source and commits & the workflow _et alia_ is not shared on behalf of security (up to now). Please, send any inquiry to this [email](mailto:imhicihu@gmail.com).
 
 ### What is this repository for? ###
 
