@@ -23,7 +23,7 @@
 
 ###Webinars
 * [Youtube live streaming](https://www.youtube.com/my_live_events)
-* [Youtube live streaming & OBStudio] (https://www.youtube.com/watch?v=YoeFXlZeRVM)
+* [Youtube live streaming & OBStudio](https://www.youtube.com/watch?v=YoeFXlZeRVM)
 * [https://www.ustream.tv/information/webinars?itm_source=footer&itm_medium=onsite&itm_content=Webinars&itm_campaign=webinars_link](https://www.ustream.tv/information/webinars?itm_source=footer&itm_medium=onsite&itm_content=Webinars&itm_campaign=webinars_link)
 
 ------------
