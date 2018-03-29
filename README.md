@@ -22,12 +22,10 @@ This document is related to the website of ISKM 2017. The (internal) source and 
 
 ### Contribution guidelines ###
 
-* Writing tests
-     - Nothing to share. Nothing to review, or code. Or rewrite.
 * Code review
-     - Nothing to share. Nothing to review.
+     - For security reasons, there is no code to share. What it can be shared can be found in the [Downloads](https://bitbucket.org/imhicihu/iskm2017/downloads/) section.
 
 ### Who do I talk to? ###
 
 * Repo owner or admin:
-     - Contact `imhicihu at gmail dot com`
+     - Contact `imhicihu at gmail dot com` or our [Trello Board](https://bitbucket.org/imhicihu/iskm2017/addon/trello/trello-board)
