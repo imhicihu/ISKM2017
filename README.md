@@ -1,6 +1,11 @@
 # Rationale #
 
-This document is related to the website of ISKM 2017. The (internal) source and commits & the workflow _et alia_ is not shared on behalf of security (up to now). Please, send any inquiry to this [email](mailto:imhicihu@gmail.com).
+* This document is related to the website of ISKM 2017. 
+* The (internal) source and commits & the workflow _et alia_ is not shared on behalf of security (up to now). 
+* Please, send any inquiry to this [email](mailto:imhicihu@gmail.com) or our [Board]((https://bitbucket.org/imhicihu/iskm2017/addon/trello/trello-board)).
+
+![iskm2017-web.png](https://bitbucket.org/repo/bBMkd4/images/892361199-iskm2017-web.png)
+
 
 ### What is this repository for? ###
 
@@ -23,7 +28,8 @@ This document is related to the website of ISKM 2017. The (internal) source and 
 ### Contribution guidelines ###
 
 * Code review
-     - For security reasons, there is no code to share. What it can be shared can be found in the [Downloads](https://bitbucket.org/imhicihu/iskm2017/downloads/) section.
+     - For *security* reasons, there is no code to share. 
+     - What it can be shared can be found in the [Downloads](https://bitbucket.org/imhicihu/iskm2017/downloads/) or [Source](https://bitbucket.org/imhicihu/iskm2017/src) section.
 
 ### Who do I talk to? ###
 
