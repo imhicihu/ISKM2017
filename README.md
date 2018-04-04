@@ -34,4 +34,4 @@
 ### Who do I talk to? ###
 
 * Repo owner or admin:
-     - Contact `imhicihu at gmail dot com` or our [Trello Board](https://bitbucket.org/imhicihu/iskm2017/addon/trello/trello-board)
+     - Contact `imhicihu at gmail dot com` or our [Board](https://bitbucket.org/imhicihu/iskm2017/addon/trello/trello-board)
