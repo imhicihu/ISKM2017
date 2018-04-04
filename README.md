@@ -19,11 +19,11 @@
 * Dependencies
      - _the less, the better_. A personal [motto](http://dictionary.cambridge.org/es/diccionario/ingles/motto)
 * Database configuration
-     - the same CMS provides an inner control- self-automatic system. A weekly backup is done for third-parties to prevent corruption. A monthly backup is programmed via Cpanel (FTP or via internal File Manager)
+     - the same CMS provides an inner control- self-automatic system. A weekly backup is done for third-parties to prevent corruption but mostly for *security* reasons. A monthly backup is programmed via Cpanel (FTP or via internal File Manager)
 * How to run tests
-     - No data is provided. From the beginning, some privacy & security issues must be fulfilled.
+     - No data is provided. From the beginning to the final of this project, some privacy & security issues must be fulfilled.
 * Deployment instructions
-     - This repo is a project related with a symposium. So, the _rationale_ begins and ends with it.
+     - This repo is a project related with a [symposium](http://www.imhicihu-conicet.gob.ar/iskm2017/). So, this _rationale_ begins and ends with it.
 
 ### Contribution guidelines ###
 
