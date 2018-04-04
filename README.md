@@ -1,6 +1,6 @@
 # Rationale #
 
-* This document is related to the website of ISKM 2017. 
+* This document is related to the [website](http://www.imhicihu-conicet.gob.ar/iskm2017/) of ISKM 2017. 
 * The (internal) source and commits & the workflow _et alia_ is not shared on behalf of security (up to now). 
 * Please, send any inquiry to this [email](mailto:imhicihu@gmail.com) or our [Board]((https://bitbucket.org/imhicihu/iskm2017/addon/trello/trello-board)).
 
