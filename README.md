@@ -2,14 +2,13 @@
 
 * This document is related to the [website](http://www.imhicihu-conicet.gob.ar/iskm2017/) of ISKM 2017. 
 * The (internal) source and commits & the workflow _et alia_ is not shared on behalf of security (up to now). 
-* Please, send any inquiry to this [email](mailto:imhicihu@gmail.com) or our [Board]((https://bitbucket.org/imhicihu/iskm2017/addon/trello/trello-board)).
 
-![iskm2017-web.png](https://bitbucket.org/repo/bBMkd4/images/892361199-iskm2017-web.png)
+![](images/892361199-iskm2017-web.png)
 
 
 ### What is this repository for? ###
 
-* Worflow in the making of [http://www.imhicihu-conicet.gob.ar/iskm2017/](http://www.imhicihu-conicet.gob.ar/iskm2017/) ~~webapps, mobile content, etc.~~
+* Worflow in the making of [http://www.imhicihu-conicet.gob.ar/iskm2017/](http://www.imhicihu-conicet.gob.ar/iskm2017/) webapps, mobile content, etc.
 * Version 1.3
 
 ### How do I get set up? ###
@@ -29,9 +28,9 @@
 
 * Code review
      - For *security* reasons, there is no code to share. 
-     - What it can be shared can be found in the [Downloads](https://bitbucket.org/imhicihu/iskm2017/downloads/) or [Source](https://bitbucket.org/imhicihu/iskm2017/src) section.
+     - What it can be shared can be found in the [Downloads](downloads/) or [Source](https://bitbucket.org/imhicihu/iskm2017/src) section.
 
 ### Who do I talk to? ###
 
 * Repo owner or admin:
-     - Contact `imhicihu at gmail dot com` or our [Board](https://bitbucket.org/imhicihu/iskm2017/addon/trello/trello-board)
+     - Contact `imhicihu at gmail dot com`
