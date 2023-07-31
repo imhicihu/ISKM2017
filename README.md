@@ -1,10 +1,10 @@
+![stability-wip](images/3278295154-status_archived.png)
+![stability-wip](images/3847436881-internal_use_stable.png)
 # Rationale #
 
 * This document is related to the [website](http://www.imhicihu-conicet.gob.ar/iskm2017/) of ISKM 2017. 
 * The (internal) source and commits & the workflow _et alia_ is not shared on behalf of security (up to now). 
-
 ![](images/892361199-iskm2017-web.png)
-
 
 ### What is this repository for? ###
 
@@ -30,7 +30,10 @@
      - For *security* reasons, there is no code to share. 
      - What it can be shared can be found in the [Downloads](downloads/) or [Source](https://bitbucket.org/imhicihu/iskm2017/src) section.
 
-### Who do I talk to? ###
+### Legal ###
 
-* Repo owner or admin:
-     - Contact `imhicihu at gmail dot com`
+* All trademarks are the property of their respective owners.
+
+### License ###
+
+* The content of this project itself is licensed under the ![MIT Licence](images/2049852260-MIT-license-green.png)
