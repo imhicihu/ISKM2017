@@ -1,3 +1,3 @@
 ### Proposals
-* TripAdvisor account / group
-* LinkedIn account
+* ~~TripAdvisor account / group~~
+* ~~LinkedIn account~~
