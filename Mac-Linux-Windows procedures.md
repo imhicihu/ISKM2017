@@ -11,14 +11,19 @@
 * Verify that your Adobe Flash Player® is updated.
 * Run Mozilla Firefox®.
 * Choose `Firefox` > `Tools` > `Add-ons`.
+<BR></BR>
 ![](images/454368749-fp-fire1.png)
+<BR></BR>
 * Select `Plugins`.
 * In the list of Add-ons, look for `Shockwave Flash` (another name for `Flash Player`) and check the _status_ that appears to the right of the plug-in name.
+<BR></BR>
 ![](images/429854473-fp-fire3.png)
+<BR></BR>
 * Select `Always Activate`.
 * Close the dialog box.
 * Restart your Mozilla Firefox®.
 * Run the official [Adobe Connect test page](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
+<BR></BR>
 ![](images/1808365633-adobe-connect-macosx.jpg)
 <br> </br>
 
@@ -43,7 +48,8 @@
 * Open Mozilla Firefox®. 
 * Visit this link: `http://get.adobe.com/flashplayer/about/`: it will show you your Adobe Flash Player®'s version and suitable installation.
 * Run the official [Adobe Connect test page](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
-* ![2017-10-04-205229_1128x641_scrot.png](images/1580105962-2017-10-04-205229_1128x641_scrot.png)
+<BR></BR>
+![2017-10-04-205229_1128x641_scrot.png](images/1580105962-2017-10-04-205229_1128x641_scrot.png)
 <br> </br>
 
 ### Windows operating system
@@ -57,14 +63,19 @@
 * Verify that your Adobe Flash Player® is updated.
 * Run Mozilla Firefox®.
 * Choose `Firefox` > `Tools` > `Add-ons`.
+  <BR></BR>
 ![](https://bitbucket.org/repo/bBMkd4/images/3238280704-fp-fire1.png)
+<BR></BR>
 * Select `Plugins`.
 * In the list of _Add-ons_, look for `Shockwave Flash` (another name for `Flash Player`) and check the _status_ that appears to the right of the plug-in name.
+<BR></BR>
 ![](images/4256878087-fp-fire3.png)
+<BR></BR>
 * Select `Always Activate`.
 * Close the dialog box.
 * Restart your Mozilla Firefox®.
 * Run the official [Adobe Connect test page](http://admin.adobeconnect.com/common/help/en/support/meeting_test.htm).
+<BR></BR>
 ![](images/1926895762-adobe_connect_pc.jpg)
 <br> </br>
 
