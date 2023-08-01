@@ -1,0 +1,1964 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww16820\viewh14580\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 =================================================================\
+File: C:\\Program Files (x86)\\Adobe\\Flash Media Live Encoder 3.2\\FlashMediaLiveEncoder.exe\
+Description: Adobe\'ae Flash\'ae Media Live Encoder\
+Copyright: \'a9 2009 - 10 Adobe Systems Incorporated. All Rights Reserved. Adobe, the Adobe logo, and Flash are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries. All other trademarks are the property of their respective owners. <AdobeIP#0000716>\
+Version: 3.2.0.9932\
+=================================================================\
+\
+\
+Fri May 05 2017 11:50:07 : Selected video input device: Monitor Webcam (SP2208WFP)\
+Fri May 05 2017 11:50:07 : Selected audio input device: Line 1/2 (M-Audio FastTrack Pro\
+Fri May 05 2017 11:50:33 : Primary - Connected to FMS/3,5,7,7009\
+Fri May 05 2017 11:53:58 : Primary - Network Command: onFCPublish\
+Fri May 05 2017 11:53:58 : Primary - Stream[vivo] Status: Success\
+Fri May 05 2017 11:53:59 : Primary - Stream[vivo] Status: NetStream.Publish.Start\
+\
+\
+==========================================================\
+<?xml version="1.0" encoding="UTF-16"?>\
+<flashmedialiveencoder_profile>\
+    <preset>\
+        <name>Custom</name>\
+        <description></description>\
+    </preset>\
+    <capture>\
+        <video>\
+        <device>Monitor Webcam (SP2208WFP)</device>\
+        <crossbar_input>0</crossbar_input>\
+        <frame_rate>20.00</frame_rate>\
+        <size>\
+            <width>640</width>\
+            <height>480</height>\
+        </size>\
+        </video>\
+        <audio>\
+        <device>Line 1/2 (M-Audio FastTrack Pro</device>\
+        <crossbar_input>0</crossbar_input>\
+        <sample_rate>22050</sample_rate>\
+        <channels>2</channels>\
+        <input_volume>75</input_volume>\
+        </audio>\
+    </capture>\
+    <encode>\
+        <video>\
+        <format>H.264</format>\
+        <datarate>384;</datarate>\
+        <outputsize>640x360;</outputsize>\
+        <advanced>\
+            <profile>Baseline</profile>\
+            <level>3.2</level>\
+            <keyframe_frequency>5 Seconds</keyframe_frequency>\
+        </advanced>\
+        <autoadjust>\
+            <enable>false</enable>\
+            <maxbuffersize>1</maxbuffersize>\
+            <dropframes>\
+            <enable>false</enable>\
+            </dropframes>\
+            <degradequality>\
+            <enable>false</enable>\
+            <minvideobitrate></minvideobitrate>\
+            <preservepfq>false</preservepfq>\
+            </degradequality>\
+        </autoadjust>\
+        </video>\
+        <audio>\
+        <format>MP3</format>\
+        <datarate>48</datarate>\
+        </audio>\
+    </encode>\
+    <restartinterval>\
+        <days></days>\
+        <hours></hours>\
+        <minutes></minutes>\
+    </restartinterval>\
+    <reconnectinterval>\
+        <attempts></attempts>\
+        <interval></interval>\
+    </reconnectinterval>\
+    <output>\
+        <rtmp>\
+        <url>rtmp://mstr18.mundostreaming.tv:80/imhicihu</url>\
+        <backup_url></backup_url>\
+        <stream>vivo</stream>\
+        </rtmp>\
+    </output>\
+    <metadata>\
+        <entry>\
+        <key>author</key>\
+        <value></value>\
+        </entry>\
+        <entry>\
+        <key>copyright</key>\
+        <value></value>\
+        </entry>\
+        <entry>\
+        <key>description</key>\
+        <value></value>\
+        </entry>\
+        <entry>\
+        <key>keywords</key>\
+        <value></value>\
+        </entry>\
+        <entry>\
+        <key>rating</key>\
+        <value></value>\
+        </entry>\
+        <entry>\
+        <key>title</key>\
+        <value></value>\
+        </entry>\
+    </metadata>\
+    <preview>\
+        <video>\
+        <input>\
+            <zoom>100%</zoom>\
+        </input>\
+        <output>\
+            <zoom>100%</zoom>\
+        </output>\
+        </video>\
+        <audio></audio>\
+    </preview>\
+    <log>\
+        <level>100</level>\
+        <directory>C:\\Users\\imhicihu\\Videos</directory>\
+    </log>\
+</flashmedialiveencoder_profile>\
+==========================================================\
+****************************************************\
+DumpGraph [02D2E0E8] \
+    Filter [02D518EC] Output Video Renderer\
+          Pin [02D51CC4] Input [Input] Connected to pin [0A0AEC50] \
+    Filter [02D50AA4] Input Video Renderer\
+          Pin [02D50E7C] Input [Input] Connected to pin [0A0AADB8] \
+    Filter [02D4FC5C] Meter Render Right\
+          Pin [02D50034] Input [Input] Connected to pin [0A0A6AF0] \
+    Filter [0090D10C] Meter Render\
+          Pin [0090D4E4] Input [Input] Connected to pin [0A0A2930] \
+    Filter [0A0A0048] Mux\
+          Pin [0A0A00A8] FLV7 [Input] Connected to pin [025D1B48] \
+          Pin [0A0A08C8] MP3 [Input] Connected to pin [025D19E0] \
+          Pin [0A0A0B40]  out [ Output] This pin is not Connected\
+    Filter [0A0ADF10] H264 Compressor\
+          Pin [0A0ADF38] Input [Input] Connected to pin [0A0AD840] \
+          Pin [0A0AEC50] Preview [Output] Connected to pin [02D51CC4] \
+          Pin [025D1B48] Output1 [Output] Connected to pin [0A0A00A8] \
+          Pin [0A0ADAC8]  Output2 [ Output] This pin is not Connected\
+    Filter [0A0AACB0] Input RGB\
+          Pin [0A0AACC8] Input [Input] Connected to pin [0261FD68] \
+          Pin [0A0AADB8] Output [Output] Connected to pin [02D50E7C] \
+    Filter [008DF548] Audio Encoder Tee\
+          Pin [008DF558] Input [Input] Connected to pin [025514F0] \
+          Pin [025D19E0] Output1 [Output] Connected to pin [0A0A08C8] \
+          Pin [02545F58]  Output2 [ Output] This pin is not Connected\
+    Filter [025D1648] Audio Monitor\
+          Pin [025D16C0] Input [Input] Connected to pin [0090A3A4] \
+          Pin [0A0A2930] Channel 0 [Output] Connected to pin [0090D4E4] \
+          Pin [0A0A6AF0] Channel 1 [Output] Connected to pin [02D50034] \
+    Filter [0A0AD0C0] FPS Controller Encoder\
+          Pin [0A0AD0D0] Input [Input] Connected to pin [0A0AC908] \
+          Pin [0A0AD840] Output [Output] Connected to pin [0A0ADF38] \
+    Filter [0261F6A8] YV12\
+          Pin [0261F6C0] Input [Input] Connected to pin [02D57314] \
+          Pin [0261FD68] Output [Output] Connected to pin [0A0AACC8] \
+    Filter [02550FE8] Audio Encoder\
+          Pin [02550FF0] PCM [Input] Connected to pin [02D2DFD4] \
+          Pin [025514F0] MP3 [Output] Connected to pin [008DF558] \
+    Filter [0A0AC800] Resize\
+          Pin [0A0AC818] Input [Input] Connected to pin [0A0AC6A8] \
+          Pin [0A0AC908] Output [Output] Connected to pin [0A0AD0D0] \
+    Filter [0090CA44] Audio Tee\
+          Pin [0090CAAC] Input [Input] Connected to pin [0261F430] \
+          Pin [02D2DFD4] Output1 [Output] Connected to pin [02550FF0] \
+          Pin [0090A3A4] Output2 [Output] Connected to pin [025D16C0] \
+          Pin [0090A464]  Output3 [ Output] This pin is not Connected\
+    Filter [0A0ABFE8] YV12 0002\
+          Pin [0A0AC000] Input [Input] Connected to pin [0A0ABE88] \
+          Pin [0A0AC6A8] Output [Output] Connected to pin [0A0AC818] \
+    Filter [0261ECE8] Audio Resampler\
+          Pin [0261ECF0] In [Input] Connected to pin [0A0A26F0] \
+          Pin [0261F430] PCM [Output] Connected to pin [0090CAAC] \
+    Filter [0A0AB708] FPS Controller Resize\
+          Pin [0A0AB718] Input [Input] Connected to pin [0090CBC4] \
+          Pin [0A0ABE88] Output [Output] Connected to pin [0A0AC000] \
+    Filter [0A0A1FC0] Audio Filler\
+          Pin [0A0A1FC8] In [Input] Connected to pin [0090ECA4] \
+          Pin [0A0A26F0] Output [Output] Connected to pin [0261ECF0] \
+    Filter [0090CCB4] Video Tee\
+          Pin [0090CD1C] Input [Input] Connected to pin [0090C5A4] \
+          Pin [02D57314] Output1 [Output] Connected to pin [0261F6C0] \
+          Pin [0090CBC4] Output2 [Output] Connected to pin [0A0AB718] \
+          Pin [02D894DC]  Output3 [ Output] This pin is not Connected\
+    Filter [0090EAFC] AUDIO SOURCE\
+          Pin [0090ECA4] Capture [Output] Connected to pin [0A0A1FC8] \
+          Pin [02D52EEC]  Master Volume [ Input] This pin is not Connected\
+    Filter [0090E8B4] Smart Tee\
+          Pin [0090E91C] Input [Input] Connected to pin [0090A0DC] \
+          Pin [0090C5A4] Capture [Output] Connected to pin [0090CD1C] \
+          Pin [0090C6C4]  Preview [ Output] This pin is not Connected\
+    Filter [00909B3C] SOURCE\
+          Pin [0090A0DC] Capture [Output] Connected to pin [0090E91C] \
+****************************************************\
+****************************************************\
+DumpGraph [02D2E0E8] \
+    Filter [02D518EC] Output Video Renderer\
+          Pin [02D51CC4] Input [Input] Connected to pin [0A0AEC50] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{E436EB7E-524F-11CE-9F53-0020AF0BA770\}  MEDIASUBTYPE_RGB32\
+Not temporally compressed\
+Sample size 921600\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 360, 32 bpp c:0\
+Image size 921600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+    Filter [02D50AA4] Input Video Renderer\
+          Pin [02D50E7C] Input [Input] Connected to pin [0A0AADB8] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{E436EB7D-524F-11CE-9F53-0020AF0BA770\}  MEDIASUBTYPE_RGB24\
+Not temporally compressed\
+Sample size 921600\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 24 bpp c:0\
+Image size 921600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+    Filter [02D4FC5C] Meter Render Right\
+          Pin [02D50034] Input [Input] Connected to pin [0A0A6AF0] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{E436EB7D-524F-11CE-9F53-0020AF0BA770\}  MEDIASUBTYPE_RGB24\
+Not temporally compressed\
+Sample size 27648\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+96 x 96, 24 bpp c:0\
+Image size 27648\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 0, 0 fps\
+****************************************************\
+    Filter [0090D10C] Meter Render\
+          Pin [0090D4E4] Input [Input] Connected to pin [0A0A2930] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{E436EB7D-524F-11CE-9F53-0020AF0BA770\}  MEDIASUBTYPE_RGB24\
+Not temporally compressed\
+Sample size 27648\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+96 x 96, 24 bpp c:0\
+Image size 27648\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 0, 0 fps\
+****************************************************\
+    Filter [0A0A0048] Mux\
+          Pin [0A0A00A8] FLV7 [Input] Connected to pin [025D1B48] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{37564C46-0000-0010-8000-00AA00389B71\}  Unknown GUID Name\
+Temporally compressed\
+Variable size samples\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 360, 12 bpp c:37564c46\
+Image size 345600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0A0A08C8] MP3 [Input] Connected to pin [025D19E0] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000055-0000-0010-8000-00AA00389B71\}  Unknown GUID Name\
+Not temporally compressed\
+Sample size 0\
+Format type FORMAT_WaveFormatEx\
+Subtype Unknown GUID Name\
+wFormatTag 85\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 6000\
+nBlockAlign 1\
+wBitsPerSample 0\
+cbSize 12\
+****************************************************\
+          Pin [0A0A0B40]  out [ Output] This pin is not Connected\
+    Filter [0A0ADF10] H264 Compressor\
+          Pin [0A0ADF38] Input [Input] Connected to pin [0A0AD840] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32315659-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YV12\
+Not temporally compressed\
+Sample size 345600\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 360, 12 bpp c:32315659\
+Image size 345600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0A0AEC50] Preview [Output] Connected to pin [02D51CC4] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{E436EB7E-524F-11CE-9F53-0020AF0BA770\}  MEDIASUBTYPE_RGB32\
+Not temporally compressed\
+Sample size 921600\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 360, 32 bpp c:0\
+Image size 921600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [025D1B48] Output1 [Output] Connected to pin [0A0A00A8] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{37564C46-0000-0010-8000-00AA00389B71\}  Unknown GUID Name\
+Temporally compressed\
+Variable size samples\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 360, 12 bpp c:37564c46\
+Image size 345600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0A0ADAC8]  Output2 [ Output] This pin is not Connected\
+    Filter [0A0AACB0] Input RGB\
+          Pin [0A0AACC8] Input [Input] Connected to pin [0261FD68] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32315659-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YV12\
+Not temporally compressed\
+Sample size 460800\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 12 bpp c:32315659\
+Image size 460800\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0A0AADB8] Output [Output] Connected to pin [02D50E7C] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{E436EB7D-524F-11CE-9F53-0020AF0BA770\}  MEDIASUBTYPE_RGB24\
+Not temporally compressed\
+Sample size 921600\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 24 bpp c:0\
+Image size 921600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+    Filter [008DF548] Audio Encoder Tee\
+          Pin [008DF558] Input [Input] Connected to pin [025514F0] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000055-0000-0010-8000-00AA00389B71\}  Unknown GUID Name\
+Not temporally compressed\
+Sample size 1\
+Format type FORMAT_WaveFormatEx\
+Subtype Unknown GUID Name\
+wFormatTag 85\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 6000\
+nBlockAlign 1\
+wBitsPerSample 0\
+cbSize 12\
+****************************************************\
+          Pin [025D19E0] Output1 [Output] Connected to pin [0A0A08C8] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000055-0000-0010-8000-00AA00389B71\}  Unknown GUID Name\
+Not temporally compressed\
+Sample size 1\
+Format type FORMAT_WaveFormatEx\
+Subtype Unknown GUID Name\
+wFormatTag 85\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 6000\
+nBlockAlign 1\
+wBitsPerSample 0\
+cbSize 12\
+****************************************************\
+          Pin [02545F58]  Output2 [ Output] This pin is not Connected\
+    Filter [025D1648] Audio Monitor\
+          Pin [025D16C0] Input [Input] Connected to pin [0090A3A4] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+          Pin [0A0A2930] Channel 0 [Output] Connected to pin [0090D4E4] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{E436EB7D-524F-11CE-9F53-0020AF0BA770\}  MEDIASUBTYPE_RGB24\
+Not temporally compressed\
+Sample size 27648\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+96 x 96, 24 bpp c:0\
+Image size 27648\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 0, 0 fps\
+****************************************************\
+          Pin [0A0A6AF0] Channel 1 [Output] Connected to pin [02D50034] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{E436EB7D-524F-11CE-9F53-0020AF0BA770\}  MEDIASUBTYPE_RGB24\
+Not temporally compressed\
+Sample size 27648\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+96 x 96, 24 bpp c:0\
+Image size 27648\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 0, 0 fps\
+****************************************************\
+    Filter [0A0AD0C0] FPS Controller Encoder\
+          Pin [0A0AD0D0] Input [Input] Connected to pin [0A0AC908] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32315659-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YV12\
+Not temporally compressed\
+Sample size 345600\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 360, 12 bpp c:32315659\
+Image size 345600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0A0AD840] Output [Output] Connected to pin [0A0ADF38] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32315659-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YV12\
+Not temporally compressed\
+Sample size 345600\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 360, 12 bpp c:32315659\
+Image size 345600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+    Filter [0261F6A8] YV12\
+          Pin [0261F6C0] Input [Input] Connected to pin [02D57314] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0261FD68] Output [Output] Connected to pin [0A0AACC8] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32315659-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YV12\
+Not temporally compressed\
+Sample size 460800\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 12 bpp c:32315659\
+Image size 460800\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+    Filter [02550FE8] Audio Encoder\
+          Pin [02550FF0] PCM [Input] Connected to pin [02D2DFD4] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+          Pin [025514F0] MP3 [Output] Connected to pin [008DF558] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000055-0000-0010-8000-00AA00389B71\}  Unknown GUID Name\
+Not temporally compressed\
+Sample size 1\
+Format type FORMAT_WaveFormatEx\
+Subtype Unknown GUID Name\
+wFormatTag 85\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 6000\
+nBlockAlign 1\
+wBitsPerSample 0\
+cbSize 12\
+****************************************************\
+    Filter [0A0AC800] Resize\
+          Pin [0A0AC818] Input [Input] Connected to pin [0A0AC6A8] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32315659-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YV12\
+Not temporally compressed\
+Sample size 460800\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 12 bpp c:32315659\
+Image size 460800\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0A0AC908] Output [Output] Connected to pin [0A0AD0D0] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32315659-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YV12\
+Not temporally compressed\
+Sample size 345600\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 360, 12 bpp c:32315659\
+Image size 345600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+    Filter [0090CA44] Audio Tee\
+          Pin [0090CAAC] Input [Input] Connected to pin [0261F430] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+          Pin [02D2DFD4] Output1 [Output] Connected to pin [02550FF0] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+          Pin [0090A3A4] Output2 [Output] Connected to pin [025D16C0] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+          Pin [0090A464]  Output3 [ Output] This pin is not Connected\
+    Filter [0A0ABFE8] YV12 0002\
+          Pin [0A0AC000] Input [Input] Connected to pin [0A0ABE88] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0A0AC6A8] Output [Output] Connected to pin [0A0AC818] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32315659-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YV12\
+Not temporally compressed\
+Sample size 460800\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 12 bpp c:32315659\
+Image size 460800\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+    Filter [0261ECE8] Audio Resampler\
+          Pin [0261ECF0] In [Input] Connected to pin [0A0A26F0] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+          Pin [0261F430] PCM [Output] Connected to pin [0090CAAC] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+    Filter [0A0AB708] FPS Controller Resize\
+          Pin [0A0AB718] Input [Input] Connected to pin [0090CBC4] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0A0ABE88] Output [Output] Connected to pin [0A0AC000] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+    Filter [0A0A1FC0] Audio Filler\
+          Pin [0A0A1FC8] In [Input] Connected to pin [0090ECA4] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+          Pin [0A0A26F0] Output [Output] Connected to pin [0261ECF0] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+    Filter [0090CCB4] Video Tee\
+          Pin [0090CD1C] Input [Input] Connected to pin [0090C5A4] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [02D57314] Output1 [Output] Connected to pin [0261F6C0] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0090CBC4] Output2 [Output] Connected to pin [0A0AB718] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [02D894DC]  Output3 [ Output] This pin is not Connected\
+    Filter [0090EAFC] AUDIO SOURCE\
+          Pin [0090ECA4] Capture [Output] Connected to pin [0A0A1FC8] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+          Pin [02D52EEC]  Master Volume [ Input] This pin is not Connected\
+    Filter [0090E8B4] Smart Tee\
+          Pin [0090E91C] Input [Input] Connected to pin [0090A0DC] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0090C5A4] Capture [Output] Connected to pin [0090CD1C] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0090C6C4]  Preview [ Output] This pin is not Connected\
+    Filter [00909B3C] SOURCE\
+          Pin [0090A0DC] Capture [Output] Connected to pin [0090E91C] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+****************************************************\
+\
+\
+Fri May 05 2017 11:53:59 : Session Started\
+Fri May 05 2017 11:54:00 : Audio Encoding Started \
+Fri May 05 2017 11:54:00 : Video Encoding Started \
+Fri May 05 2017 12:19:42 : Audio Encoding Stopped\
+Fri May 05 2017 12:19:42 : Video Encoding Stopped\
+Fri May 05 2017 12:19:42 : Session Stopped\
+Fri May 05 2017 12:19:43 : Primary - Network Command: onFCUnpublish\
+Fri May 05 2017 12:19:43 : Primary - Stream[vivo] Status: NetStream.Unpublish.Success\
+Fri May 05 2017 12:19:43 : \
+\
+================== Encoding Statistics ====================\
+                        Current                         \
+                                       Input              Output\
+             Time    Bit Rate     Drops      fps     Drops      fps \
+Audio  :   0:25:40      48 Kbps           \
+Video 1:   0:25:40    426 Kbps         0    20.00         0    20.00\
+\
+                        Average                          \
+                                       Input              Output\
+             Time    Bit Rate     Drops      fps     Drops      fps \
+Audio  :   0:25:40      48 Kbps           \
+Video 1:   0:25:40    384 Kbps         0    19.99         0    19.99\
+===========================================================\
+\
+\
+\
+================= Publishing Statistics ===================\
+         Bandwidth     Buffer   Frame Drops\
+Primary:  431 Kbps   0.00 Sec          0\
+Backup :    0 Kbps   0.00 Sec          0\
+===========================================================\
+\
+\
+Fri May 05 2017 12:19:49 : Primary - Network Command: onFCPublish\
+Fri May 05 2017 12:19:50 : Primary - Stream[vivo] Status: Success\
+Fri May 05 2017 12:19:50 : Primary - Stream[vivo] Status: NetStream.Publish.Start\
+\
+\
+==========================================================\
+<?xml version="1.0" encoding="UTF-16"?>\
+<flashmedialiveencoder_profile>\
+    <preset>\
+        <name>Custom</name>\
+        <description></description>\
+    </preset>\
+    <capture>\
+        <video>\
+        <device>Monitor Webcam (SP2208WFP)</device>\
+        <crossbar_input>0</crossbar_input>\
+        <frame_rate>20.00</frame_rate>\
+        <size>\
+            <width>640</width>\
+            <height>480</height>\
+        </size>\
+        </video>\
+        <audio>\
+        <device>Line 1/2 (M-Audio FastTrack Pro</device>\
+        <crossbar_input>0</crossbar_input>\
+        <sample_rate>22050</sample_rate>\
+        <channels>2</channels>\
+        <input_volume>75</input_volume>\
+        </audio>\
+    </capture>\
+    <encode>\
+        <video>\
+        <format>H.264</format>\
+        <datarate>384;</datarate>\
+        <outputsize>640x360;</outputsize>\
+        <advanced>\
+            <profile>Baseline</profile>\
+            <level>3.2</level>\
+            <keyframe_frequency>5 Seconds</keyframe_frequency>\
+        </advanced>\
+        <autoadjust>\
+            <enable>false</enable>\
+            <maxbuffersize>1</maxbuffersize>\
+            <dropframes>\
+            <enable>false</enable>\
+            </dropframes>\
+            <degradequality>\
+            <enable>false</enable>\
+            <minvideobitrate></minvideobitrate>\
+            <preservepfq>false</preservepfq>\
+            </degradequality>\
+        </autoadjust>\
+        </video>\
+        <audio>\
+        <format>MP3</format>\
+        <datarate>48</datarate>\
+        </audio>\
+    </encode>\
+    <restartinterval>\
+        <days></days>\
+        <hours></hours>\
+        <minutes></minutes>\
+    </restartinterval>\
+    <reconnectinterval>\
+        <attempts></attempts>\
+        <interval></interval>\
+    </reconnectinterval>\
+    <output>\
+        <rtmp>\
+        <url>rtmp://mstr18.mundostreaming.tv:80/imhicihu</url>\
+        <backup_url></backup_url>\
+        <stream>vivo</stream>\
+        </rtmp>\
+    </output>\
+    <metadata>\
+        <entry>\
+        <key>author</key>\
+        <value></value>\
+        </entry>\
+        <entry>\
+        <key>copyright</key>\
+        <value></value>\
+        </entry>\
+        <entry>\
+        <key>description</key>\
+        <value></value>\
+        </entry>\
+        <entry>\
+        <key>keywords</key>\
+        <value></value>\
+        </entry>\
+        <entry>\
+        <key>rating</key>\
+        <value></value>\
+        </entry>\
+        <entry>\
+        <key>title</key>\
+        <value></value>\
+        </entry>\
+    </metadata>\
+    <preview>\
+        <video>\
+        <input>\
+            <zoom>100%</zoom>\
+        </input>\
+        <output>\
+            <zoom>100%</zoom>\
+        </output>\
+        </video>\
+        <audio></audio>\
+    </preview>\
+    <log>\
+        <level>100</level>\
+        <directory>C:\\Users\\imhicihu\\Videos</directory>\
+    </log>\
+</flashmedialiveencoder_profile>\
+==========================================================\
+****************************************************\
+DumpGraph [02D2E0E8] \
+    Filter [02D30644] Output Video Renderer\
+          Pin [02D30A1C] Input [Input] Connected to pin [0C2E1CD0] \
+    Filter [02D2EFFC] Input Video Renderer\
+          Pin [02D2F3D4] Input [Input] Connected to pin [0261FDF8] \
+    Filter [02D50C24] Meter Render Right\
+          Pin [02D50FFC] Input [Input] Connected to pin [10130A58] \
+    Filter [02D43A14] Meter Render\
+          Pin [02D43DEC] Input [Input] Connected to pin [0C2DCDD0] \
+    Filter [0C2DAE58] Mux\
+          Pin [0C2DAEB8] FLV7 [Input] Connected to pin [0C701A88] \
+          Pin [0C2DB6D8] MP3 [Input] Connected to pin [0C700460] \
+          Pin [0C2DB950]  out [ Output] This pin is not Connected\
+    Filter [0C2E0F90] H264 Compressor\
+          Pin [0C2E0FB8] Input [Input] Connected to pin [100FE400] \
+          Pin [0C2E1CD0] Preview [Output] Connected to pin [02D30A1C] \
+          Pin [0C701A88] Output1 [Output] Connected to pin [0C2DAEB8] \
+          Pin [0C701B80]  Output2 [ Output] This pin is not Connected\
+    Filter [0261FCF0] Input RGB\
+          Pin [0261FD08] Input [Input] Connected to pin [0C701120] \
+          Pin [0261FDF8] Output [Output] Connected to pin [02D2F3D4] \
+    Filter [0A0B6CF0] Audio Encoder Tee\
+          Pin [0A0B6D00] Input [Input] Connected to pin [0C728430] \
+          Pin [0C700460] Output1 [Output] Connected to pin [0C2DB6D8] \
+          Pin [0A0B4C48]  Output2 [ Output] This pin is not Connected\
+    Filter [0C6964D8] Audio Monitor\
+          Pin [0C696550] Input [Input] Connected to pin [02D5598C] \
+          Pin [0C2DCDD0] Channel 0 [Output] Connected to pin [02D43DEC] \
+          Pin [10130A58] Channel 1 [Output] Connected to pin [02D50FFC] \
+    Filter [100FDC80] FPS Controller Encoder\
+          Pin [100FDC90] Input [Input] Connected to pin [100FD480] \
+          Pin [100FE400] Output [Output] Connected to pin [0C2E0FB8] \
+    Filter [0C700A60] YV12\
+          Pin [0C700A78] Input [Input] Connected to pin [02D5580C] \
+          Pin [0C701120] Output [Output] Connected to pin [0261FD08] \
+    Filter [0C727F28] Audio Encoder\
+          Pin [0C727F30] PCM [Input] Connected to pin [02D55A4C] \
+          Pin [0C728430] MP3 [Output] Connected to pin [0A0B6D00] \
+    Filter [100FD378] Resize\
+          Pin [100FD390] Input [Input] Connected to pin [0C597B68] \
+          Pin [100FD480] Output [Output] Connected to pin [100FDC90] \
+    Filter [0090930C] Audio Tee\
+          Pin [00909374] Input [Input] Connected to pin [025D5210] \
+          Pin [02D55A4C] Output1 [Output] Connected to pin [0C727F30] \
+          Pin [02D5598C] Output2 [Output] Connected to pin [0C696550] \
+          Pin [02D558CC]  Output3 [ Output] This pin is not Connected\
+    Filter [0C5974A8] YV12 0002\
+          Pin [0C5974C0] Input [Input] Connected to pin [100FD1F0] \
+          Pin [0C597B68] Output [Output] Connected to pin [100FD390] \
+    Filter [025D4AC8] Audio Resampler\
+          Pin [025D4AD0] In [Input] Connected to pin [0A0B6AB0] \
+          Pin [025D5210] PCM [Output] Connected to pin [00909374] \
+    Filter [100FCA70] FPS Controller Resize\
+          Pin [100FCA80] Input [Input] Connected to pin [02D55B0C] \
+          Pin [100FD1F0] Output [Output] Connected to pin [0C5974C0] \
+    Filter [0A0B6380] Audio Filler\
+          Pin [0A0B6388] In [Input] Connected to pin [0090A33C] \
+          Pin [0A0B6AB0] Output [Output] Connected to pin [025D4AD0] \
+    Filter [02D51A7C] Video Tee\
+          Pin [02D51AE4] Input [Input] Connected to pin [0090CB54] \
+          Pin [02D5580C] Output1 [Output] Connected to pin [0C700A78] \
+          Pin [02D55B0C] Output2 [Output] Connected to pin [100FCA80] \
+          Pin [02D55BCC]  Output3 [ Output] This pin is not Connected\
+    Filter [0090A194] AUDIO SOURCE\
+          Pin [0090A33C] Capture [Output] Connected to pin [0A0B6388] \
+          Pin [02D5734C]  Master Volume [ Input] This pin is not Connected\
+    Filter [0090E904] Smart Tee\
+          Pin [0090E96C] Input [Input] Connected to pin [02D894DC] \
+          Pin [0090CB54] Capture [Output] Connected to pin [02D51AE4] \
+          Pin [02D897A4]  Preview [ Output] This pin is not Connected\
+    Filter [0090FE54] SOURCE\
+          Pin [02D894DC] Capture [Output] Connected to pin [0090E96C] \
+****************************************************\
+****************************************************\
+DumpGraph [02D2E0E8] \
+    Filter [02D30644] Output Video Renderer\
+          Pin [02D30A1C] Input [Input] Connected to pin [0C2E1CD0] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{E436EB7E-524F-11CE-9F53-0020AF0BA770\}  MEDIASUBTYPE_RGB32\
+Not temporally compressed\
+Sample size 921600\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 360, 32 bpp c:0\
+Image size 921600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+    Filter [02D2EFFC] Input Video Renderer\
+          Pin [02D2F3D4] Input [Input] Connected to pin [0261FDF8] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{E436EB7D-524F-11CE-9F53-0020AF0BA770\}  MEDIASUBTYPE_RGB24\
+Not temporally compressed\
+Sample size 921600\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 24 bpp c:0\
+Image size 921600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+    Filter [02D50C24] Meter Render Right\
+          Pin [02D50FFC] Input [Input] Connected to pin [10130A58] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{E436EB7D-524F-11CE-9F53-0020AF0BA770\}  MEDIASUBTYPE_RGB24\
+Not temporally compressed\
+Sample size 27648\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+96 x 96, 24 bpp c:0\
+Image size 27648\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 0, 0 fps\
+****************************************************\
+    Filter [02D43A14] Meter Render\
+          Pin [02D43DEC] Input [Input] Connected to pin [0C2DCDD0] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{E436EB7D-524F-11CE-9F53-0020AF0BA770\}  MEDIASUBTYPE_RGB24\
+Not temporally compressed\
+Sample size 27648\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+96 x 96, 24 bpp c:0\
+Image size 27648\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 0, 0 fps\
+****************************************************\
+    Filter [0C2DAE58] Mux\
+          Pin [0C2DAEB8] FLV7 [Input] Connected to pin [0C701A88] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{37564C46-0000-0010-8000-00AA00389B71\}  Unknown GUID Name\
+Temporally compressed\
+Variable size samples\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 360, 12 bpp c:37564c46\
+Image size 345600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0C2DB6D8] MP3 [Input] Connected to pin [0C700460] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000055-0000-0010-8000-00AA00389B71\}  Unknown GUID Name\
+Not temporally compressed\
+Sample size 0\
+Format type FORMAT_WaveFormatEx\
+Subtype Unknown GUID Name\
+wFormatTag 85\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 6000\
+nBlockAlign 1\
+wBitsPerSample 0\
+cbSize 12\
+****************************************************\
+          Pin [0C2DB950]  out [ Output] This pin is not Connected\
+    Filter [0C2E0F90] H264 Compressor\
+          Pin [0C2E0FB8] Input [Input] Connected to pin [100FE400] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32315659-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YV12\
+Not temporally compressed\
+Sample size 345600\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 360, 12 bpp c:32315659\
+Image size 345600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0C2E1CD0] Preview [Output] Connected to pin [02D30A1C] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{E436EB7E-524F-11CE-9F53-0020AF0BA770\}  MEDIASUBTYPE_RGB32\
+Not temporally compressed\
+Sample size 921600\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 360, 32 bpp c:0\
+Image size 921600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0C701A88] Output1 [Output] Connected to pin [0C2DAEB8] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{37564C46-0000-0010-8000-00AA00389B71\}  Unknown GUID Name\
+Temporally compressed\
+Variable size samples\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 360, 12 bpp c:37564c46\
+Image size 345600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0C701B80]  Output2 [ Output] This pin is not Connected\
+    Filter [0261FCF0] Input RGB\
+          Pin [0261FD08] Input [Input] Connected to pin [0C701120] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32315659-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YV12\
+Not temporally compressed\
+Sample size 460800\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 12 bpp c:32315659\
+Image size 460800\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0261FDF8] Output [Output] Connected to pin [02D2F3D4] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{E436EB7D-524F-11CE-9F53-0020AF0BA770\}  MEDIASUBTYPE_RGB24\
+Not temporally compressed\
+Sample size 921600\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 24 bpp c:0\
+Image size 921600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+    Filter [0A0B6CF0] Audio Encoder Tee\
+          Pin [0A0B6D00] Input [Input] Connected to pin [0C728430] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000055-0000-0010-8000-00AA00389B71\}  Unknown GUID Name\
+Not temporally compressed\
+Sample size 1\
+Format type FORMAT_WaveFormatEx\
+Subtype Unknown GUID Name\
+wFormatTag 85\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 6000\
+nBlockAlign 1\
+wBitsPerSample 0\
+cbSize 12\
+****************************************************\
+          Pin [0C700460] Output1 [Output] Connected to pin [0C2DB6D8] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000055-0000-0010-8000-00AA00389B71\}  Unknown GUID Name\
+Not temporally compressed\
+Sample size 1\
+Format type FORMAT_WaveFormatEx\
+Subtype Unknown GUID Name\
+wFormatTag 85\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 6000\
+nBlockAlign 1\
+wBitsPerSample 0\
+cbSize 12\
+****************************************************\
+          Pin [0A0B4C48]  Output2 [ Output] This pin is not Connected\
+    Filter [0C6964D8] Audio Monitor\
+          Pin [0C696550] Input [Input] Connected to pin [02D5598C] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+          Pin [0C2DCDD0] Channel 0 [Output] Connected to pin [02D43DEC] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{E436EB7D-524F-11CE-9F53-0020AF0BA770\}  MEDIASUBTYPE_RGB24\
+Not temporally compressed\
+Sample size 27648\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+96 x 96, 24 bpp c:0\
+Image size 27648\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 0, 0 fps\
+****************************************************\
+          Pin [10130A58] Channel 1 [Output] Connected to pin [02D50FFC] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{E436EB7D-524F-11CE-9F53-0020AF0BA770\}  MEDIASUBTYPE_RGB24\
+Not temporally compressed\
+Sample size 27648\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+96 x 96, 24 bpp c:0\
+Image size 27648\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 0, 0 fps\
+****************************************************\
+    Filter [100FDC80] FPS Controller Encoder\
+          Pin [100FDC90] Input [Input] Connected to pin [100FD480] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32315659-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YV12\
+Not temporally compressed\
+Sample size 345600\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 360, 12 bpp c:32315659\
+Image size 345600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [100FE400] Output [Output] Connected to pin [0C2E0FB8] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32315659-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YV12\
+Not temporally compressed\
+Sample size 345600\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 360, 12 bpp c:32315659\
+Image size 345600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+    Filter [0C700A60] YV12\
+          Pin [0C700A78] Input [Input] Connected to pin [02D5580C] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0C701120] Output [Output] Connected to pin [0261FD08] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32315659-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YV12\
+Not temporally compressed\
+Sample size 460800\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 12 bpp c:32315659\
+Image size 460800\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+    Filter [0C727F28] Audio Encoder\
+          Pin [0C727F30] PCM [Input] Connected to pin [02D55A4C] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+          Pin [0C728430] MP3 [Output] Connected to pin [0A0B6D00] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000055-0000-0010-8000-00AA00389B71\}  Unknown GUID Name\
+Not temporally compressed\
+Sample size 1\
+Format type FORMAT_WaveFormatEx\
+Subtype Unknown GUID Name\
+wFormatTag 85\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 6000\
+nBlockAlign 1\
+wBitsPerSample 0\
+cbSize 12\
+****************************************************\
+    Filter [100FD378] Resize\
+          Pin [100FD390] Input [Input] Connected to pin [0C597B68] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32315659-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YV12\
+Not temporally compressed\
+Sample size 460800\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 12 bpp c:32315659\
+Image size 460800\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [100FD480] Output [Output] Connected to pin [100FDC90] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32315659-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YV12\
+Not temporally compressed\
+Sample size 345600\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 360, 12 bpp c:32315659\
+Image size 345600\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+    Filter [0090930C] Audio Tee\
+          Pin [00909374] Input [Input] Connected to pin [025D5210] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+          Pin [02D55A4C] Output1 [Output] Connected to pin [0C727F30] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+          Pin [02D5598C] Output2 [Output] Connected to pin [0C696550] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+          Pin [02D558CC]  Output3 [ Output] This pin is not Connected\
+    Filter [0C5974A8] YV12 0002\
+          Pin [0C5974C0] Input [Input] Connected to pin [100FD1F0] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0C597B68] Output [Output] Connected to pin [100FD390] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32315659-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YV12\
+Not temporally compressed\
+Sample size 460800\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 12 bpp c:32315659\
+Image size 460800\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+    Filter [025D4AC8] Audio Resampler\
+          Pin [025D4AD0] In [Input] Connected to pin [0A0B6AB0] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+          Pin [025D5210] PCM [Output] Connected to pin [00909374] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+    Filter [100FCA70] FPS Controller Resize\
+          Pin [100FCA80] Input [Input] Connected to pin [02D55B0C] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [100FD1F0] Output [Output] Connected to pin [0C5974C0] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+    Filter [0A0B6380] Audio Filler\
+          Pin [0A0B6388] In [Input] Connected to pin [0090A33C] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+          Pin [0A0B6AB0] Output [Output] Connected to pin [025D4AD0] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+    Filter [02D51A7C] Video Tee\
+          Pin [02D51AE4] Input [Input] Connected to pin [0090CB54] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [02D5580C] Output1 [Output] Connected to pin [0C700A78] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [02D55B0C] Output2 [Output] Connected to pin [100FCA80] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [02D55BCC]  Output3 [ Output] This pin is not Connected\
+    Filter [0090A194] AUDIO SOURCE\
+          Pin [0090A33C] Capture [Output] Connected to pin [0A0B6388] \
+****************************************************\
+\
+Major type \{73647561-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Audio\
+Sub type   \{00000001-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_PCM\
+Not temporally compressed\
+Sample size 4\
+Format type FORMAT_WaveFormatEx\
+Subtype MEDIASUBTYPE_PCM\
+wFormatTag 1\
+nChannels 2\
+nSamplesPerSec 22050\
+nAvgBytesPerSec 88200\
+nBlockAlign 4\
+wBitsPerSample 16\
+cbSize 0\
+****************************************************\
+          Pin [02D5734C]  Master Volume [ Input] This pin is not Connected\
+    Filter [0090E904] Smart Tee\
+          Pin [0090E96C] Input [Input] Connected to pin [02D894DC] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [0090CB54] Capture [Output] Connected to pin [02D51AE4] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+          Pin [02D897A4]  Preview [ Output] This pin is not Connected\
+    Filter [0090FE54] SOURCE\
+          Pin [02D894DC] Capture [Output] Connected to pin [0090E96C] \
+****************************************************\
+\
+Major type \{73646976-0000-0010-8000-00AA00389B71\}  MEDIATYPE_Video\
+Sub type   \{32595559-0000-0010-8000-00AA00389B71\}  MEDIASUBTYPE_YUY2\
+Not temporally compressed\
+Sample size 614400\
+Source rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Target rectangle ( Left 0 Top 0 Right 0 Bottom 0) \
+Size of BITMAPINFO structure 40\
+640 x 480, 16 bpp c:32595559\
+Image size 614400\
+Planes 1\
+Pels per metre (0, 0)\
+Colours used 0\
+AvgTimePerFrame 500000, 20 fps\
+****************************************************\
+****************************************************\
+\
+\
+Fri May 05 2017 12:19:50 : Session Started\
+Fri May 05 2017 12:19:51 : Audio Encoding Started \
+Fri May 05 2017 12:19:51 : Video Encoding Started \
+Fri May 05 2017 12:20:54 : Audio Encoding Stopped\
+Fri May 05 2017 12:20:54 : Video Encoding Stopped\
+Fri May 05 2017 12:20:54 : Session Stopped\
+Fri May 05 2017 12:20:54 : Primary - Network Command: onFCUnpublish\
+Fri May 05 2017 12:20:54 : Primary - Stream[vivo] Status: NetStream.Unpublish.Success\
+Fri May 05 2017 12:20:54 : \
+\
+================== Encoding Statistics ====================\
+                        Current                         \
+                                       Input              Output\
+             Time    Bit Rate     Drops      fps     Drops      fps \
+Audio  :   0:01:00      48 Kbps           \
+Video 1:   0:01:00    482 Kbps         0    21.00         0    20.00\
+\
+                        Average                          \
+                                       Input              Output\
+             Time    Bit Rate     Drops      fps     Drops      fps \
+Audio  :   0:01:00      48 Kbps           \
+Video 1:   0:01:00    385 Kbps         0    19.87         0    19.87\
+===========================================================\
+\
+\
+\
+================= Publishing Statistics ===================\
+         Bandwidth     Buffer   Frame Drops\
+Primary:  439 Kbps   0.00 Sec          0\
+Backup :    0 Kbps   0.00 Sec          0\
+===========================================================\
+\
+\
+Fri May 05 2017 12:21:02 : Primary - Network Status: NetConnection.Connect.Closed status\
+Fri May 05 2017 12:21:02 : Primary - Disconnected\
+}
