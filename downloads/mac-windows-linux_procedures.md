@@ -3,7 +3,7 @@
 <h3 id="toc_1">Mac OSX operating system</h3>
 
 <ul>
-<li>System requeriments:
+<li>System requirements:
 
 <ul>
 <li>Intel Coreâ„¢ Duo 1.83GHz or faster processor</li>
@@ -31,7 +31,7 @@
 <h3 id="toc_3">Linux operating system</h3>
 
 <ul>
-<li>System requeriments:
+<li>System requirements:
 
 <ul>
 <li>2.33GHz or faster x86-compatible processor, or Intel Atom 1.6GHz or faster processor for netbooks.</li>
@@ -61,7 +61,7 @@
 <h3 id="toc_5">Windows operating system</h3>
 
 <ul>
-<li>System requeriments:
+<li>System requirements:
 
 <ul>
 <li>2.33GHz or faster x86-compatible processor, or IntelÂ® Atomâ„¢ 1.6GHz or faster processor for netbooks.</li>
